@@ -1,0 +1,24 @@
+1.12 Level of inflation in Egypt 
+An economist wants to estimate the average rate of consumer price inflation in Egypt in the
+late 20th century. Within the National Bureau, they find records for the years 1970 to 2000, 
+which they treat as a sample of all inflation rates from the late 20th century. 
+The average rate of inflation in the records is 11.6. 
+
+Using the appropriate statistical method, they estimate the average rate of inflation
+in late 20th century Egypt was between 11.25 and 11.95.
+
+a. Which part of this example gives a descriptive summary of the data?
+b. Which part of this example draws an inference about a population?
+c. To which population does the inference in part b refer?
+d. The average rate of inflation was 11.6. Is 11.6 a statistic or a parameter?
+----------------
+
+a. The descriptive summary is where the average rate of inflation is stated to be 11.6, based on the collected sample data.
+
+b. The inference is where the economist estimates the average rate of inflation to be between 11.25 and 11.95, 
+applying statistical methods to the sample.
+
+c. The population refers to all annual inflation rates in Egypt during the late 20th century, 
+which the economist is trying to estimate based on available records.
+
+d. The value 11.6 is a statistic, because it is a summary based on a sample of years (1970–2000), not the entire population.

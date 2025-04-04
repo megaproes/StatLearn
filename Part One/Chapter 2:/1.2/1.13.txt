@@ -1,0 +1,23 @@
+1.13 Age pyramids as descriptive statistics 
+The figure shown is a graph published by Statistics Sweden. 
+It compares Swedish society in 1750 and in 2010 on the numbers of
+men and women of various ages, using age pyramids.
+
+Explain how this indicates that
+a. In 1750, few Swedish people were old.
+b. In 2010, Sweden had many more people than in 1750
+c. In 2010, of those who were very old, more were female than male.
+d. In 2010, the largest five-year group included people born during the era of first manned space flight.
+
+--------
+a. In 1750, the top sections of the age pyramid are very narrow, showing that very few people lived to old age.
+
+b. In 2010, every age group is significantly wider than the corresponding group in 1750, 
+indicating that Sweden had a much larger population overall.
+
+c. In 2010, among the oldest age groups (especially 80+), the female bars are much wider, 
+indicating that more elderly people were women than men.
+
+d. The largest five-year group appears to be 65–69, meaning those people were born between 1941 and 1945, 
+around the World War II era, not during the era of first manned spaceflight (which began in 1961). 
+So the group born during the space era would be those aged around 45–49 in 2010 — a smaller group.

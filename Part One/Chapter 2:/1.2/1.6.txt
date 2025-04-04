@@ -1,0 +1,17 @@
+1.6 Description and inference
+
+a. Distinguish between description and inference as reasons for using statistics. 
+Illustrate the distinction, using an example.
+
+b. You have data for a population, such as obtained in a census. 
+Explain why descriptive statistics are helpful but inferential statistics are not needed.
+-------
+
+a. Description is summarizing the collected data.
+Inference is using the data to make generalizations or predictions about a population.
+For example, tracking the number of winning trades and their average PNL, risk-reward ratio, or slippage is descriptive statistics.
+Predicting whether those metrics will continue in future trades is inferential statistics.
+
+b. Descriptive statistics help summarize and understand the full data set, such as a complete census.
+Since you already have data for the entire population, 
+there’s no need to make inferences — you already know the full picture without having to estimate or predict.

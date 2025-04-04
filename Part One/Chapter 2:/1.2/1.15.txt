@@ -1,0 +1,24 @@
+1.15 Graduate studies 
+Consider the population of all undergraduate students at your university. 
+A certain proportion have an interest in graduate studies. Your friend randomly
+samples 40 undergraduates and uses the sample proportion
+of those who have an interest in graduate studies to predict
+the population proportion at the university. 
+
+You conduct an independent study of a random sample of 40 undergraduates, 
+and find the sample proportion of those are interested in graduate studies. 
+
+For these two statistical studies,
+a. Are the populations the same?
+b. How likely is it that the samples are the same? Explain.
+c. How likely is it that the sample proportions are equal?
+Explain.
+----------------
+
+a. Yes, the populations are the same. 
+Both studies are sampling from the same group - all undergraduate students at the university.
+
+b. It is very unlikely that the samples are exactly the same. Since random sampling was used, the chance of selecting the exact same 40 individuals is extremely low.
+
+c. It is somewhat likely that the sample proportions are similar, but not necessarily equal.
+Due to natural random variation, the proportions may differ slightly, even though they are drawn from the same population.

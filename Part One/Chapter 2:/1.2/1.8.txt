@@ -1,0 +1,18 @@
+1.8 Interested in CCUS? The Chinese Academy of Sciences
+and the Chinese Academy of Environmental Planning
+conducted a survey of about 563 Chinese, with a tertiary
+education, about their interest in reducing global warming.
+
+In the survey conducted in 2013, one of the questions asked
+was, “Are you interested in carbondioxide capture, usage, and geological storage (CCUS) technology?” 
+The possible responses were very interested, more interested, little interested, not interested, or don’t know about it. 
+
+The survey reported percentages (20, 55, 20, 3, 2) in these categories.
+a. Identify the sample and the population.
+b. Are the percentages quoted statistics or parameters? Why?
+-----------
+
+a. The sample is the 563 Chinese individuals with tertiary education who responded to the survey.
+The population is all Chinese individuals with tertiary education, not just those surveyed.
+
+b. The percentages are statistics, not parameters, because they are based on data from a sample, not the entire population. 

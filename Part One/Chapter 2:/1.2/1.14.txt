@@ -1,0 +1,20 @@
+1.14 Margin of error in better life index 
+The Current Better Life Survey (https://www.oecdbetterlifeindex.org) is used by the
+Organization for Economic Co-operation and Development
+(OECD) to assign Better Life Indices, calculated through
+average literacy score and life expectancy at birth, for the French population. 
+
+How close is a sample estimate from this survey to the true, unknown population parameter?
+a. Based on the latest data from this survey, the average literacy score was estimated as 494, with a margin of error
+of plus or minus 18. Is it plausible that the average literacy
+score of all French adults in the age group 25–64 years is 520? Explain.
+
+b. The survey estimated the life expectancy at birth as 83 years, with a margin of error of plus or minus 4 years. 
+Is it plausible that the actual life expectancy at birth in all of France is less than 80 years? Explain.
+----------------
+
+a. The average literacy score was estimated as 494 with a margin of error of ±18, giving a range of [476, 512].
+Since 520 is outside this interval, it is not plausible that the true average literacy score is 520.
+
+b. The life expectancy at birth was estimated as 83 years with a margin of error of ±4, giving a range of [79, 87].
+Since 80 is within this range, it is plausible that the actual life expectancy is less than 80 years.

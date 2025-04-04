@@ -1,0 +1,41 @@
+1.17 Comparing polls 
+The following table shows the result of the 2018 General Elections in Pakistan, along with
+the vote share predicted by several organizations in the days before the elections. 
+The sample sizes were typically above 2,000 people, and the reported margin of error was around plus or minus 2 percentage points. 
+(The percentages for each poll do not sum up to 100 because of the vote share of other regional parties in a democratic setup.)
+			Predicted Vote
+Poll 					PML-N PTI
+IPOR 					32     29
+SDPI 					25     29
+Pulse  Consultant 			27     30
+Gallup Pakistan (Self) 		38     25
+Gallup Pakistan (WSJ) 		36     24
+Gallup Pakistan (Geo/Jang) 	34     26
+Actual Vote 				24.4   31.8
+
+a. The SDPI Poll Predicted that 29% were going to vote for PTI, with a margin of error of 2 percentage points.
+Explain what that means.
+
+b. Do most of the predictions fall within 2% (the margin of error) of the actual vote percentages? Considering
+the relative sizes of the sample, the population, and the other parties factor, would you say that these polls have good accuracy?
+
+c. Access the Sampling Distribution for the Sample Proportion web app at www.ArtofStat.com (see Activity 2),
+and set the population proportion to 32% (the actual vote share of PTI rounded to two significant digits) and the sample size 
+to 3,000 (a typical sample size for the polls shown here). Press the Generate Sample(s) button 10 times to stimulate 
+taking a poll of 3,000 voters 10 times. The bottom graph now marks 10 potential results obtained from exit polls of 3,000 voters under
+this scenario. You can see the smallest and the largest value of these 10 proportions by checking the 
+“Summary Statistics for Sample Distribution” box under Options.
+What are the smallest and the largest proportions you obtained in your simulation of 10 exit points?
+---------------
+
+a. The SDPI poll predicted that 29% of voters would choose PTI, with a margin of error of ±2%.
+This means that the true proportion of PTI supporters in the population was expected to fall within the interval [27%, 31%], 95% of the time.
+
+b. The actual vote share for PTI was 31.8%. Only one prediction (Pulse Consultant, 30%) falls 
+within the ±2% margin of error range of [29.8%, 33.8%].
+Most of the other polls predicted values too low, indicating that most predictions were not accurate within the stated margin of error.
+Factors such as regional vote shifts, undecided voters, or biases in sampling could explain the difference.
+
+c. Using the simulation (p = 0.32, n = 3,000), the smallest proportion observed from 10 polls was 0.304, 
+and the largest was 0.330. These results fall within about ±1.6% of the true value, confirming that polls with this 
+sample size typically show a small but expected amount of variation.

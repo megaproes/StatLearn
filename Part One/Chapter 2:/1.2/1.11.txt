@@ -1,0 +1,16 @@
+1.11 Graduating seniors’ salaries 
+
+The job placement center at your school surveys all graduating seniors at the school.
+Their report about the survey provides numerical summaries such as the average 
+starting salary and the percentage of students earning more than $30,000 a year.
+
+a. Are these statistical analyses descriptive or inferential? Explain.
+b. Are these numerical summaries better characterized as
+statistics or as parameters?
+-------------
+
+a. These are descriptive statistics, because they summarize the actual data collected from all graduating seniors. 
+No predictions or generalizations are being made beyond the group surveyed.
+
+b. These numerical summaries are parameters, since the survey included all graduating seniors, not just a sample. 
+They describe values from the entire population. 

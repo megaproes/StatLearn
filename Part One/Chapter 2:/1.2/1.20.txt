@@ -1,0 +1,25 @@
+1.20 Education performance 
+A study published in The Sydney Morning Herald in 2019 investigated the effect of financial
+incentives on performance scores of students. As part of the study, 50 schools having students of fifth grade were
+randomly assigned to one of the two treatment groups. 
+One group of students (25 schools) were given $2 per homework problem that they mastered; 
+the other (25 schools) was given a moral lecture on the importance of mastering maths. 
+The outcome of interest of the study was student performance two years after the incentives were stopped.
+After discontinuation of incentives, 17% of students in the financial incentive group reported scores at or above
+the proficiency level for their grade in maths, compared to 13.5% of the group completing their homework. 
+
+Assume that the observed difference in performance improvement rates between the groups (17%-13.5% = 3.5%) 
+is statistically significant. What does it mean to be statistically significant? (Choose the best option from a to d).
+
+a. 14.5% was calculated using statistical techniques.
+
+b. We know that if financial incentive were given to all students, 14.5% would perform better.
+
+c. Financial incentive was offered to 14.5% more students in the study than the non school going students who
+were working somewhere.
+
+d. The observed difference of 14.5% is so large that it is unlikely to have occurred by chance only.
+(Source: https://www.smh.com.au/education/staggering-cash-incentives-improve-kids-learning-research-shows-20190130-p50ukt.html)
+----------
+The correct concept is in option (d), but the percentage should be 3.5%, not 14.5%. 
+The other choices are irrelevant or incorrect.

@@ -1,0 +1,20 @@
+1.10 Is globalization good? 
+The Voice of the People poll asks a random sample of citizens from different countries around
+the world their opinion about global issues. 
+
+Included in the list of questions is whether they feel that globalization helps
+their country. The reported results were combined by regions. 
+
+In the most recent poll, 74% of Africans felt globalization helps their country, whereas 38% of North Americans
+believed it helps their country. 
+
+(a) Identify the samples and the populations. 
+(b) Are these percentages sample statistics or population parameters? Explain your answer.
+------
+
+a. The samples are the randomly selected people from Africa and North America who responded to the poll.
+The populations are all people in Africa and all people in North America, respectively.
+
+b. These percentages are sample statistics, because they were calculated from 
+responses given by a subset (sample) of each population — not the entire population. 
+

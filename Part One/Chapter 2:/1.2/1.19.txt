@@ -1,0 +1,34 @@
+1.19 Statistical significance 
+A study performed by Florida International University investigated how musical instruction in an after-school program affected overall
+competence, confidence, caring, character, and connection
+(known as the “Five Cs”). 
+The study compared a group of students who received music instruction to another group who didn’t. 
+One of the findings was that those receiving music instruction showed, on average, a significant increase in their character. 
+Character was measured by scoring answers to questions such as 
+“I finish whatever I begin,” 
+with scores ranging from 1 (“not at all like me”) to 5 (“very much like me”). 
+
+For each part, select (i) or (ii).
+a. For the two groups to be called significantly different, the difference in the average character scores computed from 
+the participants in the study had to be 
+(i) much smaller or 
+(ii) much larger than one would expect under regular sample-to-sample variability.
+
+b. What does a significant increase imply in this context?
+That the difference in the average score to questions such as “I finish whatever I begin” between the group receiving
+music instruction and the group that didn’t was 
+(i) much larger than would be expected if music instruction didn’t have an effect or 
+(ii) nearly identical in the two groups.
+
+c. Suppose the two groups did not differ significantly in terms of the average confidence score. 
+This indicates that the difference in the average confidence score of participants 
+(i) can be explained by regular sample-to-sample variability or 
+(ii) cannot be explained by regular sample-to-sample variability.
+------------
+
+a. (ii) The difference should be much larger
+
+b. (i) If music instruction didn't have an effect then the difference would be small and not significant. 
+Therefore, significant increase means significant difference between these two groups.
+
+c. (i) If the groups don't differ significantly, that would mean the diffence could just be random.

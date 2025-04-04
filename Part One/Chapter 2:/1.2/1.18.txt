@@ -1,0 +1,37 @@
+1.18 Margin of error and n 
+A poll was conducted by Ipsos Public Affairs for Global News. It was conducted between
+May 18 and May 20, 2016, with a sample of 1005 Canadians.
+It was found 73% of the respondents “agree” that the
+Liberals should not make any changes to the country’s
+voting system without a national referendum first (http:// globalnews.ca/news/). 
+
+Find the approximate margin of error if the poll had been based on a sample of size: 
+(a) n = 900 
+(b) n = 1600 
+(c) n = 2500. 
+Explain how the margin of error changes as n increases
+------------
+
+a.
+Using 10 simulations with sample size n = 900 and population proportion p = 0.73:
+    Mean = 0.725
+    Min = 0.700
+    Max = 0.738
+    Margin of error ≈ 2.5% to 3.8%
+b.
+With n = 1600:
+    Mean = 0.726
+    Min = 0.704
+    Max = 0.746
+    Margin of error ≈ 2.0% to 2.2%
+
+c.
+With n = 2500:
+    Mean = 0.730
+    Min = 0.720
+    Max = 0.740
+    Margin of error ≈ 1.0%
+
+Conclusion:
+As the sample size increases, the margin of error decreases. 
+This is because larger samples reduce variability in sample estimates, making them more precise and closer to the true population value.

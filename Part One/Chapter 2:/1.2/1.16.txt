@@ -1,0 +1,62 @@
+1.16 Samples vary less with more data 
+We’ll see that the amount by which statistics vary from sample to sample always depends on the sample size. 
+This important fact can be illustrated by thinking about what would happen in repeated flips of a fair coin.
+a. Which case would you find more surprising—flipping the coin five times and observing all heads or flipping
+the coin 500 times and observing all heads?
+
+b. Imagine flipping the coin 500 times, recording the proportion of heads observed, and repeating this ex-
+periment many times to get an idea of how much the proportion tends to vary from one sequence to another. 
+Different sequences of 500 flips tend to result in proportions of heads observed which are less variable
+than the proportion of heads observed in sequences of only five flips each. Using part a, explain why you would expect this to be true.
+
+c. We can simulate flipping the coin five times with the Sampling Distribution for the Sample Proportion web app mentioned in Activity 2. 
+Access the app from the book’s website, www.ArtofStat.com, and set the population proportion to 0.5 (so that we are simulating
+flipping a fair coin) and the sample size n to 5 (so that we are simulating flipping a coin five times). 
+Then press Draw Sample(s) once. What proportion of heads (= successes) did you observe in these five flips? 
+Press the Generate Sample(s) button 24 more times. What is the smallest and what is the largest sample proportion
+you observed? Which sample proportion occurred the most often in these 25 simulations?
+
+d. Press Reset and set the sample size n to 500 instead of 5, to simulate flipping the coin 500 times. Then press
+Draw Sample(s) once. What proportion of heads (= successes) did you observe in these five flips? Press
+the Generate Sample(s) button 24 more times. What is the smallest and what is the largest sample proportion you observed? 
+(Hint: Check Show Summary Statistics to see the smallest and largest value generated.)
+
+a. The second case (getting 500 heads in 500 flips) would be far more surprising because the probability of this 
+happening is extremely small.  In contrast, getting 5 heads in 5 flips is much more likely by chance.
+
+b. The 5-flip sequences are more variable because there's a higher chance of extreme outcomes (like all heads or no heads). 
+In contrast, the 500-flip sequences tend to cluster closer to 50% heads, which is why their variability is lower. 
+This supports the idea that larger samples lead to more stable estimates.
+
+c. In my first simulation of 5 flips, I observed 2 heads (successes), giving a proportion of 2/5 = 0.4.
+After 25 simulations:
+    1. Smallest proportion observed: 0.0
+    2. Largest proportion observed: 1.0
+    3. Most frequently observed proportion: 0.6
+
+
+    d. I reset the app and set the sample size to 500. My first observed proportion of heads was 0.514 (257 heads out of 500 flips). 
+After 25 more simulations, the summary was:
+	Mean: 0.499  
+	Standard Deviation: 0.019  
+	Min: 0.446  
+	Q1: 0.492  
+	Median: 0.502  
+	Q3: 0.512  
+	Max: 0.530  
+	IQR: 0.020
+So:
+	Smallest proportion: 0.446
+	Largest proportion: 0.530
+	
+This shows that with a larger sample size, the sample proportions vary less and stay much closer to the true proportion of 0.5.
+
+
+
+
+
+
+
+
+
+

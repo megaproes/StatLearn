@@ -1,0 +1,20 @@
+1.9 Preferred holiday destination 
+
+Suppose a student is interested in knowing the preferred holiday destinations of the
+faculty members in their university. 
+
+They are affiliated to the college of business and interview a few of the faculty mem-
+bers about their preferred holiday destination. 
+
+In this context, identify the:
+ (a) subject, 
+ (b) sample, 
+ (c) population.
+----------
+
+a. A subject is an individual from whom data is collected. 
+In this case, a single faculty member interviewed is the subject.
+
+b. The sample is the group of faculty members who were actually interviewed by the student.
+
+c. The population is all faculty members at the university, since that’s the full group the student is interested in learning about.

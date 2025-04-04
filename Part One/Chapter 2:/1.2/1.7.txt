@@ -1,0 +1,18 @@
+1.7 Ebook use During the spring semester in 2014, an ebook
+survey was administered to students at Winthrop University.
+Of the 170 students sampled, 45% indicated that they had
+used ebooks for their academic work. 
+Identify: 
+(a) the sample, 
+(b) the population, 
+(c) the sample statistic reported.
+------------
+
+a. A sample is the subset of the population for whom we have data.
+Here, the 170 students surveyed make up the sample.
+
+b. The population is the total group we want to draw conclusions about.
+In this case, the population is all students at Winthrop University.
+
+c. The sample statistic is a numerical summary of the sample.
+Here, the 45% who reported using ebooks is the sample statistic.
