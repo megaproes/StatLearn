@@ -1,0 +1,21 @@
+1.36 Support of labor unions 
+The Gallup organization has asked opinions about support of labor unions since its
+first poll in 1936, when 72% of the American population approved of them. 
+In its 2018 poll, it found that support of labor unions was at 62%. 
+The 2018 poll was based on a random sample of 1,024 adults aged 18 and older and had a margin of error of plus or minus 4%.
+
+a. What is a range of likely values for the proportion of Americans who supported labor unions in 2018?
+
+b. The statistics from Gallup mentioned in the exercise are an example of (i) descriptive statistics or (ii) inferential statistics?
+
+c. The question in part a of this exercise is an example of 
+(i) descriptive statistics or 
+(ii) inferential statistics?
+------------------
+
+a.  The likely range of values for the proportion of Americans who supported labor unions in 2018 is: 
+62% +-4% = [58%, 66%].
+
+b. (ii) Inferential statistics - Because Gallup is using a sample to make generalizations about the U.S. population.
+
+c. (ii) Inferential statistics - Because calculating a likely range for a population value involves inference beyond just the sample data.

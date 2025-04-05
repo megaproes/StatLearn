@@ -1,0 +1,18 @@
+1.32 Mobile data costs 
+A study is conducted by the Australian Communications and Media Authority. 
+Based on a small sample of 19 mobile communications plans offered, the average cost per 
+1000 MB of free monthly mobile data allowance is found to be $5.40, with a margin of error of $2.16. 
+Explain how this margin of error provides an inferential statistical analysis.
+--------
+
+This is an example of inferential statistical analysis because it uses a sample (19 mobile plans) 
+to make a prediction about the average cost across the entire population of mobile plans.
+
+The reported average of $5.40 is the sample statistic, and the margin of error of $2.16 gives 
+a likely range for the true population mean.
+
+So, based on this sample, we estimate that the average cost per 1000 MB of all mobile data plans in the 
+population is between $3.24 and $7.56, with a high level of confidence (typically 95%).
+
+This range accounts for sampling variability and expresses the uncertainty inherent in using a small sample 
+to estimate a population parameter.

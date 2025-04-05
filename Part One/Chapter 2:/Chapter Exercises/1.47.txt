@@ -1,0 +1,37 @@
+1.47 Margin of error 
+Refer to the Sampling Distribution for the Sample Proportion app used in Activity 2.
+
+a. For a population proportion of 0.50, simulate one random sample of size 1,000. 
+(In the app, click on Enter Numerical Values for n and p.) 
+What is the sample proportion of successes? Repeat this for a total of 10 times, keeping track of the 10 sample
+proportions you generate (the middle graph in the app shows the sample proportion in the subtitle).
+
+b. The margin of error with a sample of size 1,000 is approximately 3 percentage points. 
+Using each of the 10 sample proportions from part a as the midpoint, construct 10 intervals by adding or subtracting this
+margin of error. Remember that the margin of error tells you how close to the population proportion the
+sample proportion is likely to fall. 
+How many of the 10 intervals you constructed actually contain the population proportion of 0.50?
+
+c. Collect the 10 intervals from each member of the class. 
+(If there are 20 students, 200 intervals will be collected.) 
+What percentage of these intervals captured the actual population proportion, 0.50?
+--------------
+
+a. First sample gave p = 0.502. 
+
+b. 
+1. 0.507 +- 0.03 = [0.477, 0.537]
+2. 0.510 +- 0.03 = [0.48, 0.54] 
+3. 0.495 +- 0.03 = [0.465, 0.525]
+4. 0.495 +- 0.03 = [0.465, 0.525]
+5. 0.511 +- 0.03 = [0.481, 0.541]
+6. 0.495 +- 0.03 = [0.465, 0.525]
+7. 0.489 +- 0.03 = [0.459, 0.519] 
+8. 0.515 +- 0.03 = [0.485, 0.545]
+9. 0.492 +- 0.03 = [0.462, 0.522]
+10. 0.509 +- 0.03 = [0.479, 0.539] 
+So, all of 10 intervals contain the population proportion 0.5
+
+c. If 20 students each produce 10 intervals (200 total), and we’re using a 95% confidence level, then about 
+95% of intervals should contain the true proportion.
+So approximately 190 out of 200 intervals are expected to capture the population proportion of 0.50.

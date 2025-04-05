@@ -1,0 +1,16 @@
+1.35 Website tracking 
+Example 5 mentioned data collected on visitors to a website for one day in March. 
+Identify the: 
+(a) sample and potential population of interest for this study and 
+(b) descriptive and inferential aspects of this study.
+--------
+
+a. The sample is the group of 85 visitors whose behavior was tracked on that specific day.
+The population of interest could be all visitors to the website, either throughout the entire month of March or over a longer time frame
+
+b. The descriptive aspect of the study involves summarizing characteristics of the sample, such as the average time spent on the website, 
+the most commonly used browser, or age group distribution.
+
+The inferential aspect involves using the sample data to make generalizations or predictions about the behavior and characteristics 
+of all website visitors, not just those who visited on that one day. 
+For example, we might estimate the average time most users spend on the site or the percentage of users who use a mobile browser.

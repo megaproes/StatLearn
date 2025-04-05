@@ -1,0 +1,18 @@
+1.31 Defence services 
+The University Career Survey asked in 2021 whether you would join the defence forces 
+if you got an opportunity. Of the 6,814 students who had an opinion about this, 
+4,252 or 62.4% indicated that they would join the defence forces.
+
+a. Describe the population of interest.
+b. Explain how the sample data are summarized using descriptive statistics.
+c. For what population parameter might we want to make an inference?
+---------
+
+a. The population of interest is all students at the university who have an opinion on whether they would join the defense forces.
+
+b. The sample data (6,814 students with an opinion) is summarized using descriptive statistics, 
+by calculating the proportion who would join: (4252/6814)*100 ~= 62.4%.
+
+c. We may want to make an inference about the true proportion of all university students 
+(or all students with an opinion) who would choose to join the defense forces if given the opportunity. 
+This is the population parameter of interest.

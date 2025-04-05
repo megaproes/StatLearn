@@ -1,0 +1,36 @@
+1.37 How sample proportions vary from one sample to the next 
+Refer to Activity 2 in Section 1.2 and the sampling Distribution for the Sample Proportion web app.
+
+a. Repeat the activity, using a population proportion 'p' of 0.60: Generate at least 25 samples of size n = 10 each. 
+Observe how the sample proportions of successes vary around 0.60. Write down the smallest and largest sample proportion you obtained in your 25
+simulations. (Check the box Show Summary Statistics, which will show you the smallest and largest sample proportion simulated.)
+
+b. Repeat part a, but now use a sample size of n = 100. (Hit the reset button to clear the simulation results from part a.) 
+What are now the smallest and largest values of the sample proportions in your simulations?
+
+c. From your simulations in parts a and b, which sample size (n = 10 or n = 100) do you think will lead to a smaller margin of error?
+
+d. Repeat part b, but with a larger sample size yet, of n = 1,000. (In the app, click on Enter Numerical Values for n and p.) 
+With a sample of size n = 1,000, the margin of error in estimating a population proportion of 0.6 is plus or minus 3 percentage points.
+Are any of your simulated sample proportions more than 3 percentage points (i.e., more than 0.03) away
+from 0.6, i.e., less than 0.57 or larger than 0.63?
+
+-----------
+a. The smallest is 0.300 and the largest is 1.00; 
+This shows high variability in small samples - some samples had only 3/10 successes, some had all 10/10!
+
+b. The smallest was 0.500 and the largest is 0.710;
+Now the variability is much smaller — proportions stay closer to 0.60.
+
+c. Between n = 10 and n = 100, the sample size of n = 100 leads to a smaller margin of error.
+Larger samples give more stable and precise estimates, so the spread of sample proportions is narrower.
+
+d. With n=1000 the Min is 0.572 and Max is 0.631.
+Only one sample slightly exceeded the upper margin (0.631), and none dropped below 0.57.
+
+This confirms that with a large sample size (n = 1,000), the sample proportions tend to stay 
+very close to the population proportion, and almost always fall within the expected margin of error.
+------------
+
+As sample size increases, the variability of sample proportions decreases, and the margin of error shrinks. 
+This is exactly what we expect in inferential statistics.

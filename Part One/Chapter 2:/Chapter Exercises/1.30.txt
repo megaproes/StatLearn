@@ -1,0 +1,23 @@
+1.30 UW student survey 
+In a University of Wisconsin (UW) study about alcohol abuse among students, 100 of the
+40,858 members of the student body in Madison were sampled and asked to complete a questionnaire. 
+One question asked was, “On how many days in the past week did you consume at least one alcoholic drink?” (Source:
+Alcoholism Studies, University of Wisconsin © 2020 Board of Regents - University of Wisconsin System)
+
+a. Identify the population and the sample.
+b. For the 40,858 students at UW, one characteristic of interest was the percentage who would respond “zero” to this question. 
+For the 100 students sampled, suppose 29% gave this response. Does this mean that 29% of the entire population of UW students would
+make this response? Explain.
+c. Is the numerical summary of 29% a sample statistic or a population parameter?
+-------------
+
+a. The population is all 40,858 UW students at the Madison campus.
+The sample is the group of 100 students who were selected and surveyed.
+
+b. No, we cannot conclude that exactly 29% of the entire population would respond “zero.”
+This value is an estimate based on a sample and is subject to sampling variability.
+With a properly conducted random sample, we can say the true percentage in the population 
+is likely close to 29%, but it may be somewhat higher or lower - especially considering the margin of error.
+
+c. The 29% is a sample statistic, because it is a numerical summary calculated from a sample 
+(the 100 students), not from the entire population.

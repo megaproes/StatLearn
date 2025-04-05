@@ -1,0 +1,72 @@
+1.43 Use of inferential statistics? 
+
+Inferential statistics are used
+a. to describe whether a sample has more females or males.
+b. to reduce a data file to easily understood summaries.
+c. to make predictions about populations by using sample data.
+d. when we can’t use statistical software to analyze data.
+e. to predict the sample data we will get when we know the population.
+------------
+(c) to make predictions about populations by using sample data.
+------------
+
+1.44 NYC vs. Upstate significantly different? 
+Example 3 mentioned a poll about a potential New York State law on banning plastic bags from grocery stores. When dividing the 929
+voters included in the poll by region, the results show that among voters from New York City, 46% supported the ban,
+while 52% of voters from upstate New York supported the ban. 
+Based on these results, the study authors conclude that a statistically significant difference exists between the proportion of 
+voters in favor of banning plastic bags in upstate New York and New York City. This means that
+
+a. in a future referendum about the state law, 6% more voters will support the ban in upstate New York compared to New York City.
+b. Differences such as the observed 6 percentage point difference between voters from New York City and
+upstate New York are likely to occur when the proportion of supporters is the same in both regions.
+c. Differences such as the observed 6 percentage point difference between voters from New York City 
+and upstate New York are unlikely to occur when the proportion of supporters is the same in both regions.
+d. The margin of error in this study was plus or minus 6 percentage points.
+-----------
+(c)
+--------------
+
+1.45 True or false? In a particular study, you could use descriptive statistics, or you could use inferential statistics,
+but you would rarely need to use both.
+--------
+False. We commonly use both descriptive and inferential statistics in the same study. 
+Descriptive statistics summarize the data, while inferential statistics help draw conclusions about the population based on that data.
+------
+
+1.46 True or false? The smaller the margin of error, the less
+precise the prediction of the population parameter.
+-------
+False. A smaller margin of error means the prediction is more precise, not less.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

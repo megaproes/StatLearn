@@ -1,0 +1,23 @@
+1.48 Choosing a random sample 
+We mentioned in Section 1.2 that a simple example of random sampling is when a teacher puts each student’s name on slips of paper, places
+them in a hat, shuffles them, and then draws names from the hat without looking. 
+We can simulate such a process with the Random Numbers app available from the book’s website, www.ArtofStat.com. Access that app and
+leave the minimum at 1, but choose your class size as the maximum. Number the members of the class consecutively, starting with 1. 
+Choose as the number of samples to draw a number that is relatively small compared to the class size; e.g., 
+when the class size is 30, select 5 as the sample size. Finally, check No for “Sampling with Replacement?” in the app.
+
+a. Press the Generate button once. The numbers displayed indicate a random sample of the corresponding members of the class. 
+Which numbers did you obtain?
+
+b. Keep on pressing Generate multiple times to see how eventually all members have about the same chance of being included in the sample, 
+indicated by the frequencies in the bar chart below. After pressing 20 times, how often was the number 2 selected? 
+(To get the bars in the chart to have about equal height, you may have to press Generate many hundreds of times.)
+--------
+
+a. After pressing Generate once, the randomly selected numbers were:
+3, 8, 9, 16, 20
+These represent a random sample of 5 students from a class of 20.
+
+b. After pressing Generate hundreds of times, number 2 was selected 22 times, or approximately 4.07% of the time.
+As the number of repetitions increased, the selection frequency of each number approached 5%, indicating that every 
+class member has an equal chance of being included in the sample over time - a key feature of simple random sampling.

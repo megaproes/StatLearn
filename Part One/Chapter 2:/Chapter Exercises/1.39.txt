@@ -1,0 +1,7 @@
+1.39 Statistics in the news 
+Pick up a recent issue of a national newspaper, such as The New York Times or USA Today,
+or consult a news website, such as www.msnbc.com or www.cnn.com. 
+Identify an article that used statistical methods. 
+Did it use descriptive statistics, inferential statistics, or both? Explain.
+-------
+// TODO

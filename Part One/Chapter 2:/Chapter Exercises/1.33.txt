@@ -1,0 +1,24 @@
+1.33 Breaking down Brown versus Whitman 
+Example 2 of this chapter discusses an exit poll taken during the 2010 California gubernatorial election. 
+The administrators of the poll also collected demographic data, which allows for further breakdown of the 3,889 voters from whom in-
+formation was collected. 
+
+Of the 1,633 voters registered as Democrats, 91% voted for Brown, with a margin of error of 1.4%. 
+
+Of the 1,206 voters registered as Republicans, 10% voted for Brown, with a margin of error of 1.7%.
+
+And of the 1,050 Independent voters, 42% voted for Brown, with a margin of error of 3.0%.
+
+a. Do these results summarize sample data or population data?
+b. Identify a descriptive aspect of the results.
+c. Identify an inferential aspect of the results.
+
+-------------
+
+a. These results summarize sample data, because the information was collected from a sample of voters (not the entire population). 
+
+b. The proportions of each group who voted for Brown (like 91% of Democrats, 10% of Republicans) are descriptive statistics, 
+because they summarize the observed sample data.
+
+c. The margins of error (like ±1.4%, ±1.7%, ±3.0%) are part of inferential statistics, because they help estimate 
+how much the sample results might differ from the true population values.

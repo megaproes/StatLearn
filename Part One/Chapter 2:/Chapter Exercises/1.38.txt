@@ -1,0 +1,24 @@
+1.38 How sample means vary from one sample to the next
+
+Activity 2 explored the sample-to-sample variability of sample proportions. 
+In this exercise, we will explore how the sample mean, the average of all observations in a sample, varies from sample to sample. 
+Open the Sampling Distribution for the Sample Mean (Discrete Population) web app from the book’s website, www.ArtofStat.com. 
+From the first drop-down menu, select Fair Die. 
+This shows the distribution of the outcome of rolling a fair die with numbers 1 through 6, each with probability 1/6. 
+(We will learn more about such distributions in Chapter 5.) 
+
+We can think of a sample as consisting of several observations of this die.
+a. Set the value for the sample size equal to 2. This means we make two observations of this die, each of which is a number between 1 and 6. 
+The average of the two observations can be 1 (if each die shows a 1), 1.5, 2, . . . , 5.5, and 6. 
+Press the Draw Sample(s) button 25 times and observe how the sample average varies between these numbers. 
+What is the smallest and largest average you simulated, and which average(s) appeared the most often? 
+(Hint: Click the Show Summary Statistic check box to see the smallest and largest average simulated.)
+
+b. Now, press the Reset button and move the slider for n to 20, for a sample of 20 observations of rolls of this die. 
+Press Draw Sample(s) 25 times and observe how the sample average varies, but that now the variability
+is much more restricted compared to the scenario in part a. What is now the smallest and largest average you simulated?
+--------------------
+
+a. The smallest average is 1.50 while the biggest is 5.5. The most often occurs 4.
+
+b. The min is 2.85 and max is 4.30. 
