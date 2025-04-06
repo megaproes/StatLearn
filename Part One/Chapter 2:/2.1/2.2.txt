@@ -1,0 +1,9 @@
+2.2 Common types of cancer in 2012 Of all cancer cases around the world in 2012, 13% had lung cancer, 11.9%
+had breast cancer, 9.7% had colorectal cancer, 7.9% had prostate cancer, 6.8% had stomach cancer, and 50.7% had
+other types of cancer (www.wcrf.org/int/cancer-facts-fig-ures/worldwide-data). 
+
+Is the variable “cancer type” categorical or quantitative? Explain.
+----------
+ The variable "cancer type" is categorical because it classifies each case into a specific group or category 
+ based on the type of cancer — such as lung cancer, breast cancer, colorectal cancer, and so on. 
+ These are labels, not numbers, and we use them to sort or group the data rather than to perform mathematical operations.

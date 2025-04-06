@@ -1,0 +1,17 @@
+a. Quantitative discrete
+b. Discrete
+c. 
+ Number_of_Children Count Proportion Percentage
+                  0   663     0.2828      28.28
+                  1   349     0.1489      14.89
+                  2   623     0.2658      26.58
+                  3   383     0.1634      16.34
+                  4   166     0.0708       7.08
+                  5    74     0.0316       3.16
+                  6    47     0.0201       2.01
+                  7    23     0.0098       0.98
+                  8    16     0.0068       0.68
+              Total  2344         NA         NA
+
+d. The modal category is '0' number of children having around 28%.
+The number of children '2' is second by frequency, '3' third, '1' the fourth, and the rest being lower 10%.

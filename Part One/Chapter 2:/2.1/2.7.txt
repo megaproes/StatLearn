@@ -1,0 +1,19 @@
+2.7 Discrete or continuous 2 
+Identify each of the following variables as continuous or discrete.
+a. The number of courses for which a student has received credit
+
+b. The total playing time of a playlist on Spotify
+
+c. The distance between where you live and your classroom, when you measure it precisely with values such as 0.5 km, 2.5 km, and 5.65 km
+
+d. The amount of money in your pocket (Hint: You could regard a number such as €10.25 as 1,025 in terms of “the number of cents”.)
+-----------------
+
+a. Discrete - Courses are counted in whole numbers.
+
+b. Continuous - Playing time can be measured in very fine units like seconds or milliseconds.
+
+c. Continuous - Distance is measurable with infinite precision (e.g., decimals like 0.5 km, 2.53 km).
+
+d. Discrete - Money, when measured in cents (or the smallest currency unit), is counted and cannot be 
+split further in practical terms. So it’s treated as discrete.

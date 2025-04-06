@@ -1,0 +1,19 @@
+2.1 Categorical/quantitative difference
+a. Explain the difference between categorical and quantitative variables.
+b. Give an example of each.
+
+Categorical variables classify data into distinct groups or categories, such as “yes” or “no,” or “short,” “long,” or “neutral.”
+They describe qualities or labels, not numbers.
+
+Quantitative variables represent numerical values that can be measured or counted. 
+They describe magnitudes and allow for mathematical operations such as averaging.
+
+b. .
+Examples of quantitative variables include:
+    MAE (Maximum Adverse Excursion)
+    MPP (Maximum Profit Potential)
+    Duration or PNL of trades
+
+Examples of categorical variables include:
+    “Was cold-minded during trade: Yes/No”
+    “Bitcoin state: Long / Short / Range-bound”

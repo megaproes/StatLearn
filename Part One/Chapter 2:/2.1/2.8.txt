@@ -1,0 +1,21 @@
+2.8 Nominal/ordinal
+a. Explain the difference between a nominal and ordinal categorical variable.
+b. Give an example of each type.
+--------
+
+A nominal categorical variable is a variable that represents categories with no inherent or meaningful order. 
+The categories are just labels used to classify data.
+
+An ordinal categorical variable is a variable that also represents categories, but those categories have a logical or meaningful order. 
+However, the differences between levels are not necessarily equal or measurable
+
+b. 
+Nominal examples:
+    Gender (male, female, non-binary)
+    Religion (Christianity, Islam, Hinduism, etc.)
+    Exit reason (Take Profit, Stop Loss, Manual Exit)
+
+Ordinal examples:
+    Economic status (Low income, Middle income, High income)
+    Education level (High school, Bachelor's, Master's, PhD)
+    Satisfaction rating (Very dissatisfied, Dissatisfied, Neutral, Satisfied, Very satisfied)

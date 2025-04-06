@@ -1,0 +1,22 @@
+2.12 Smartphone use in class 
+A survey of 743 teenagers (ages 13–17) about losing focus when checking their cellphones
+during class revealed that 291 never lost focus, 214 rarely lost focus, 178 sometimes lost focus, and 60 often lost focus. 
+Construct the frequency table for the different categories of losing focus and describe the distribution by
+finding the modal category and mentioning other category frequencies. 
+-------------
+1. 
+  Category Count Proportion Percentage
+     Never   291     0.3917      39.17
+    Rarely   214     0.2880      28.80
+ Sometimes   178     0.2396      23.96
+     Often    60     0.0808       8.08
+     Total   743         NA         NA
+
+2.Modal category: Never with 291 responses.
+
+3. Most teenagers (nearly 40%) reported that they never lose focus when checking their phone in class. 
+The next most common response was "Rarely" at about 29%, followed by "Sometimes" at 24%. 
+A much smaller portion (8%) said they "Often" lose focus.
+
+This suggests that the majority of students believe their focus is not heavily affected by phone use, 
+though a significant portion (about 32%) do report at least sometimes losing focus.

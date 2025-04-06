@@ -1,0 +1,11 @@
+2.6 Discrete or continuous? Identify each of the following variables as continuous or discrete.
+a. The upload speed of an Internet connection
+b. The number of apps installed on a tablet
+c. The height of a tree
+d. The number of emails you send in a day
+----------
+
+a. Continuous - Upload speed can take on any value within a range and is often measured with decimals.
+b. Discrete — The number of apps is a countable value and must be a whole number.
+c. Continuous — Tree height is measurable and can include fractional values.
+d. Discrete — Number of emails is a whole-number count, so it's a discrete variable.

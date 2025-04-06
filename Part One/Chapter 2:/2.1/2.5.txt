@@ -1,0 +1,15 @@
+2.5 Discrete/continuous
+a. Explain the difference between a discrete variable and a continuous variable.
+b. Give an example of each type.
+------------
+
+a.  A discrete variable is one that takes on countable values, usually whole numbers. 
+These values are separated and not connected - for example, 0, 1, 2, 3...
+
+A continuous variable can take on any value within a range, including decimals and fractions. 
+These values form a continuous scale — such as 0.125, 1.5, or 3.3336.
+
+b. An example of a discrete variable is the number of stop losses or take profits triggered during the day - these are countable events.
+
+An example of a continuous variable is the time spent in a trade, which can be any value (e.g., 2.5 minutes, 7.75 hours), 
+and is measured on a continuous scale.

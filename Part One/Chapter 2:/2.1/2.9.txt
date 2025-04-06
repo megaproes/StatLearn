@@ -1,0 +1,19 @@
+2.9 Nominal or ordinal? 
+Identify each of the following variables as nominal, ordinal, or neither.
+a. Gender (with categories female, male, nonbinary, other)
+
+b. Favorite color
+
+c. Pain as measured on the 11-point pain scale, with a score of 0 meaning no pain, a score between 1 and 3
+describing mild pain, a score between 4 and 6 describing moderate pain, and a score between 7 and 10 describing severe pain.
+
+d. Effectiveness of teacher (not effective, slightly effective, moderately effective, very effective, extremely effective)
+-------------
+
+a. Nominal — Gender is a label with no inherent order.
+
+b. Nominal — Favorite color is a label/category without any ranking.
+
+c. Ordinal — Pain level categories have a natural order (mild < moderate < severe), though differences between levels aren’t necessarily equal.
+
+d. Ordinal — Teacher effectiveness is measured on a scale that implies ranking or progression from low to high.

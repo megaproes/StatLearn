@@ -1,0 +1,15 @@
+2.3 Classify the variable type Classify each of the following variables as categorical or quantitative.
+a. The number of social media accounts you have (Facebook, Twitter, LinkedIn, Instagram, etc.)
+b. Preferred soccer team
+c. Choice of smartphone model to buy
+d. Distance (in kilometers) of commute to work
+------------
+
+a. Quantitative - This is a count of how many social media accounts someone has. 
+It’s a number you can measure and compare (e.g., average number of accounts).
+
+b. Categorical - Preferred soccer team is a label (e.g., Arsenal, Liverpool) that places people into categories.
+
+c. Categorical - The choice of smartphone model is a category or brand name, not a measurable number.
+
+d. Quantitative - Distance in kilometers is a numeric variable that represents a measurable quantity.

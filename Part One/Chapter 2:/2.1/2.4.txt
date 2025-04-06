@@ -1,0 +1,18 @@
+2.4 Categorical or quantitative? Identify each of the following variables as either categorical or quantitative.
+a. Choice of diet (vegan, vegetarian, neither)
+b. Time spent shopping online per week
+c. Ownership of a tablet (yes, no)
+d. Number of siblings
+---------
+
+a. Categorical Nominal. 
+Choice of diet is a label or group with no inherent ranking.
+
+b. Quantitative continuous. 
+Time is measured and can include decimals (e.g., 2.5 hours), making it continuous.
+
+c. Categorical Nominal
+Ownership status (Yes/No) is a binary category with no numeric or ranked meaning.
+
+d. Quantitative Discrete.
+Number of siblings is a countable numeric value — whole numbers only.

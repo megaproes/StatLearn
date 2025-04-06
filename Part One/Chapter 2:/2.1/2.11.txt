@@ -1,0 +1,30 @@
+2.11 Fatal shark attacks Few of the shark attacks listed in Table 2.1 are fatal. 
+Overall, 63 fatal shark attacks were recorded in the ISAF for the 10-year period from
+2004 to 2013, with 2 reported in Florida, 2 in Hawaii, 4 in California, 15 in Australia, 13 in South Africa, 6 in
+Réunion Island, 4 in Brazil, and 6 in the Bahamas. The rest occurred in other regions.
+
+a. Construct the frequency table for the regions of the reported fatal shark attacks.
+b. Identify the modal category.
+c. Describe the distribution of fatal shark attacks across the regions.
+--------
+
+a.
+         Region Count Proportion Percentage
+        Florida     2     0.0317       3.17
+         Hawaii     2     0.0317       3.17
+     California     4     0.0635       6.35
+      Australia    15     0.2381      23.81
+   South Africa    13     0.2063      20.63
+ Reunion Island     6     0.0952       9.52
+         Brazil     4     0.0635       6.35
+        Bahamas     6     0.0952       9.52
+  Other regions    11     0.1746      17.46
+          Total    63         NA         NA
+
+b. Australia
+
+c. The region with the highest number of fatal shark attacks was Australia, accounting for nearly 24% of all recorded attacks 
+over the 10-year period. South Africa followed closely, with over 20% of the attacks. 
+Other high-incident regions include Réunion Island and the Bahamas, each with about 9.5%. 
+Regions such as Florida, Hawaii, and California had relatively few fatal attacks, each contributing less than 7%. 
+The remaining attacks were distributed across other regions, making up about 17% of the total.
