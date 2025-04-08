@@ -1,0 +1,25 @@
+2.16 Most popular museum 
+
+Which museums are the most visited? The following table shows results for the top eight most visited museums around the world, 
+according to the World Atlas website.
+
+a. Is “museum visited” a categorical or a quantitative variable?
+b. When creating a bar graph of these data, would it be most sensible to list the museums alphabetically or in
+the form of a Pareto chart? Explain.
+c. Does either a dot plot or a stem-and-leaf plot make sense for these data? Explain.
+d. Use the Explore Categorical Data app (enter data as a frequency table) or other software to construct a bar graph for these data.
+--------------
+
+a. “Museum visited” is a categorical variable because each museum is a category or label, not a numerical measurement. 
+We’re grouping by names of museums.
+
+b. Pareto chart is preferred. Alphabetical order may look clean, but it doesn't help reveal trends.
+A Pareto chart, which orders the bars from highest to lowest frequency, makes it easy to visually identify 
+the most visited museums and compare them quickly.
+Since the values are close together (e.g., 6.3M, 6.4M, 6.7M), sorting them helps avoid visual confusion.
+
+c. No, neither is appropriate Dot plots and stem-and-leaf plots are best for quantitative numerical data, 
+especially small datasets with repeated or similar values. Here, we're working with categorical labels and associated 
+frequencies, so these plot types don't apply or help visually.
+
+d. 

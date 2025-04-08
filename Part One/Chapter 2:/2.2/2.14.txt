@@ -1,10 +1,20 @@
 2.14 What do Brazilians surf? 
 The following bar chart is from a study investigating the social media platforms liked by Brazilians. 
-For the 5,000 Brazilians under study in March 2022, social media platform preferences were based on the daily time spent on various platforms—Facebook, Pinterest, Twitter, YouTube, Instagram, and Others (Tumblr, LinkedIn, Reddit, Vimeo, etc.) 
+For the 5,000 Brazilians under study in March 2022, social media platform preferences were based on the 
+daily time spent on various platforms—Facebook, Pinterest, Twitter, YouTube, Instagram, and Others (Tumblr, LinkedIn, Reddit, Vimeo, etc.) 
 
 a. Is primary social media choice categorical or quantitative?
 b. Which is the modal primary social media choice?
 c. About what percentage of Brazilians have Facebook as the primary social media choice?
+d. This type of bar chart, with categories listed in order of frequency, has a special name. What is it?
 ---------------
 
-a. 
+a. Categorical. The primary social media platform is a categorical variable because it 
+places each person into a group or category (e.g., Facebook, Pinterest, etc.) — not a number.
+
+b. Facebook, meaning it was chosen most often as the primary platform.
+
+c. About 55%. 
+
+d. Pareto chart. A bar chart with categories ordered from highest to lowest frequency is called a Pareto chart.
+It highlights the most significant categories first, helping us focus on the biggest contributors.

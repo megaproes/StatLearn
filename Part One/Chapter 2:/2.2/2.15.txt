@@ -1,0 +1,25 @@
+2.15 Oil wells 
+The pie chart shown (constructed using Excel) portrays the regional distribution of oil wells in the Middle East.
+a. Do the slices of the pie portray (i) variables or (ii) categories of a variable?
+b. Identify what the two numbers that are shown for each slice of the pie mean.
+c. Without inspecting the numbers, would it be easier to identify the modal category by using this graph or the corresponding bar graph? Why?
+----------------
+
+a. (ii) 
+The variable is “Country”, and each slice of the pie chart represents a category  of that variable (e.g., Oman, Saudi Arabia, UAE, etc.).
+The pie slices do not represent different variables — they represent different values (categories) of the same variable.
+So:
+    Variable = Country (categorical)
+    Categories = Oman, Saudi Arabia, etc.
+    What’s shown = the count and proportion of oil wells in each category
+
+b. The first number is the number of oil wells in that country.
+The second number is the percentage of the total oil wells that this number represents — i.e., the country’s proportion of the whole.
+For example, Oman has 4,918 wells, which accounts for 27% of the total.
+
+c. In this case, either graph makes it easy to see that Oman is the modal category, because its slice (or bar) would be 
+visually much larger than the others.
+However, in situations where the differences between categories are small, a bar graph ordered by size 
+(like a Pareto chart) makes it easier to compare and identify the highest value.
+
+So overall, a bar graph is more effective in general, especially when clarity matters. 
