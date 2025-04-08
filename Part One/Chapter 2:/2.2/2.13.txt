@@ -1,0 +1,21 @@
+2.13 Global Warming 
+In 2017, a survey was conducted comprising nationals from different countries across the globe.
+Upon the question of how aerosols affect the climate, 28.0% responded in favor of albedo effect, 33.5% sup-
+ported absorption of sunlight, and 29.5% stated altering occurrence of clouds. Of the remaining, 3.1% suggested
+a complex mechanism that happens while 5.9% indicated being unaware of the reason. 
+
+a. Display this information in a bar graph.
+b. Which is easier to sketch relatively accurately, a bar chart or a pie chart?
+c. What is the advantage of using a graph to summarize the results instead of merely stating the percentages for each source?
+d. What is the modal category?
+--------------
+
+b. Bar chart. Because each bar represents a separate, equally spaced category with a measurable height, 
+it is easier to estimate and compare values. Pie charts make it harder to judge small differences between similar-sized slices.
+
+c. Graphs give an immediate visual understanding of data.
+A graph allows patterns, such as which responses are most common or how categories compare, to be understood quickly and intuitively. 
+It’s much faster for the eye to spot highs/lows than scanning a list of percentages.
+
+d. The modal category is “Absorption of Sunlight,” with 33.5% of responses.
+This is the most frequently chosen response in the survey.
