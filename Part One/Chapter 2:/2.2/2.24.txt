@@ -1,0 +1,16 @@
+2.24 Shape of the histogram 
+For each of the following variables, indicate whether you would expect its histogram to
+be symmetric, skewed to the right, or skewed to the left. Explain why.
+
+a. The price of a certain model of smartwatch in different stores in your district.
+b. The amount of time taken by students to complete an exam at your school.
+c. The grade point average (GPA) of your academic program this year.
+d. The salary of all the employees in a company.
+-------------
+
+a. Roughly symmetric
+b. Skewed to the left. Many students might take the full allotted time (or nearly so), while only some finish much earlier. 
+
+c. Skewed to the left
+d. skewed to the right. Most employees earn lower to mid-range salaries, and only a few top executives or 
+specialists earn very high salaries, which pulls the right tail out.

@@ -1,0 +1,27 @@
+2.27 How often do students read the newspaper? 
+One of the questions on the class survey from Chapter 1 asked:
+“Estimate the number of times a week, on average, that you read a daily newspaper.”
+a. Is this variable continuous or discrete? Explain.
+
+b. The histogram shown gives results of this variable when this survey was administered to a class of 36 University of Georgia students. 
+Report the (i) minimum response, (ii) maximum response, (iii) number of students who did not read the newspaper at all, and (iv) mode.
+
+c. Describe the shape of the distribution.
+
+d. Find the proportion (or percent) of students that read a newspaper at least 6 times per week, on average.
+-------------
+
+a. The number of times someone reads a newspaper is countable (0, 1, 2, …), with no fractional responses. 
+So, it’s a discrete quantitative variable.
+
+b. 
+(i) 0 times per week
+(ii) 9 times per week
+(iii) 2 students
+(IV) 3 times per week is the mode as it has the frequency of 8 students.
+
+c. The histogram has a peak in the middle (at 3), and the frequencies taper off fairly evenly to both sides, 
+suggesting a roughly symmetric shape. There is no obvious skew.
+
+d. We find that 6 times per week was 2 students, 7 times the 4 students, 8 times 2 students and 9 only 1 students.
+The sum of students as 2 + 4 + 2 + 1 = 9 says that (9/36) * 100 = 25% or a qurter of students read newspapers at least 6 times per week.

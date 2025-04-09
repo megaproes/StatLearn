@@ -1,0 +1,30 @@
+2.23 Histogram for sugar 
+For the breakfast cereal data, the figure below shows a histogram for the sugar values in grams.
+
+a. Identify the intervals of sugar values used for the plot.
+
+b. Describe the shape of the distribution. What do you think might account for this unusual shape? 
+(Hint: How else are the cereals classified in Table 2.3?)
+
+c. What information can you get from the dot plot
+(Exercise 2.18) or a stem-and-leaf plot of these data that you cannot get from this plot?
+
+d. This histogram shows frequencies. If you were to construct a histogram by using the percentages for each in-
+terval, how (if at all) would the shape of this histogram change?
+-----------------
+
+a. The histogram uses bins (intervals) of width 2 grams, starting at 0 and going up to 18 grams. The intervals are:
+0-2, 2-4, 4-6, 6-8, 8-10, 10-12, 12-14, 14-16, 16-18
+
+b. The distribution appears to be bimodal and slightly symmetric, with two visible peaks — one around 4–6g and another 
+around 12–14g of sugar.
+This unusual shape might be explained by the classification in the table: cereals are either Type A 
+(popular with adults) or Type C (popular with children).
+
+Adult cereals tend to have lower sugar, while children’s cereals often have higher sugar, which could naturally lead to this two-peak (bimodal) pattern.
+
+с. idk.
+
+d. No, the shape of the histogram would not change.
+Replacing frequencies (counts) with relative frequencies or percentages would change the scale of the y-axis, 
+but the overall shape and distribution pattern would stay exactly the same.

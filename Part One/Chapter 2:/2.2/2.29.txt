@@ -1,0 +1,27 @@
+2.29 Central Park temperatures 
+The first graph shows a histogram of the Central Park, New York, annual average temperatures from 1869 to 2018.
+a. Describe the shape of the distribution.
+b. What information can the time plot show that a histogram cannot provide?
+c. What information does the histogram show that a time plot does not provide?
+------------
+
+a. It's symmetric. The histogram of annual average temperatures is roughly bell-shaped and symmetric, 
+centered around 54°F. There’s no strong skew, and most temperatures fall between 52°F and 56°F.
+
+b. Trends over time
+    The time plot shows how temperatures change over the years, allowing us to:
+    Observe long-term trends, such as global warming (an upward trend in recent decades).
+    Detect cyclical patterns or fluctuations.
+    Identify anomalies (e.g., unusually hot or cold years).
+
+In contrast, the histogram only shows the overall frequency distribution, not when values occurred.
+
+c. Shape and spread of the distribution.
+
+The histogram gives a clear view of:
+    The overall shape (e.g., symmetric, skewed)
+    Frequencies of temperature ranges (e.g., how often temps fall between 53–54°F)
+    Concentration and variability — where most values lie and how spread out they are
+
+The time plot can show patterns over time, but it’s hard to quickly judge the overall shape or 
+most frequent values just by looking at the noisy time line.

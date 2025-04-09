@@ -1,0 +1,15 @@
+a. This dramatic downward trend strongly suggests that the vaccination introduced in the 1940s was 
+highly effective in reducing the incidence of whooping cough.
+
+The decline is steep and consistent over the 25 years following vaccine introduction.
+
+b. Incidence was low in the 1980s–1990s but began rising in the 2000s and peaked sharply around 2012.
+Although the disease was once well-controlled, the upward trend since around 2000 suggests that whooping cough is not fully eradicated.
+So, while the vaccine was very effective initially, new challenges have reintroduced outbreaks.
+
+c. No — a histogram would not help much.
+A histogram shows the distribution of values, but it does not account for time.
+Since we’re trying to evaluate the effect of a vaccine over time, a time plot is the appropriate tool.
+
+A histogram might show two clusters (high in the early years, low later), but it wouldn’t show the gradual 
+decline after vaccine introduction or the recent rise. So it cannot show trends or cause-effect timing, which are crucial here.

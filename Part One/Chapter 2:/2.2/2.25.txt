@@ -1,0 +1,18 @@
+2.25 More shapes of histograms 
+Repeat the preceding exercise for the following.
+a. The winner’s score at a basketball game during an NBA season.
+b. The distance from home to school for students attending a specific school.
+c. The number of attempts a young adult needs to pass a driving license test.
+d. The number of times an individual requests a password reset for the forgotten password of their email account.
+---------------
+
+a. Symmetric. 
+
+b. Right skewed. Most students live close to school, so distances cluster at the lower end. 
+A few students might live farther away and commute longer distances, forming a long right tail.
+
+c. Right skewed. Most pass on their first or second attempt, but some might need more tries - a long right tail 
+with fewer people as the number of attempts increases.
+
+d. Right skewed. Most people request a reset rarely (0–1 times). A few might forget more frequently or have bad 
+memory habits, but that's rare.

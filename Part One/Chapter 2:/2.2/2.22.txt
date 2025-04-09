@@ -1,0 +1,13 @@
+2.22 Histogram of fertility rates 
+Exercise 2.21 presented the fertility rates of just a few countries. 
+Below is a histogram of the fertility rates from 200 countries, as given in the file Fertility on the book’s website.
+
+a. How many bins were formed?
+b. Mexico, with a fertility rate of 2.2, would fall in which bin?
+c. What’s wrong with this interpretation of the histogram: About 60% of countries have a fertility rate between 1.5 and 2.
+------------------
+
+a. 15
+b. The 4th bin, which covers the range 2.0 to 2.5.
+c. This interpretation is incorrect because the y-axis shows a count, not a percentage. The correct statement should be:
+"About 60 countries have a fertility rate between 1.5 and 2.0," not 60%.
