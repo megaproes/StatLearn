@@ -1,0 +1,18 @@
+2.33 More median versus mean 
+For each of the following variables, would you use the median or mean for describ-
+ing the center of the distribution? Why? (Think about the likely shape of the distribution.)
+a. Amount of liquid in bottles of capacity one liter
+b. The salary of all the employees in a company
+c. The number of requests to reset passwords for individual email accounts
+----------
+
+a. Mean.This distribution is likely symmetric and tightly clustered around 1 liter because manufacturing processes are 
+designed to be highly consistent and precise.
+There are no extreme outliers, so the mean accurately reflects the center of the distribution.
+
+b. Median. Salaries are right-skewed. A few very high earners (like executives) pull the mean upward.
+The median better reflects what a "typical" employee earns.
+
+c. Median. Most people reset their password 0–1 times, but a few users may reset it dozens of times - making the 
+distribution strongly right-skewed.
+These extreme values would inflate the mean, so the median is a more accurate description of the center.

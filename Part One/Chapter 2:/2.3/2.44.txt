@@ -1,0 +1,35 @@
+2.44 Fertility statistics 
+The fertility rates (mean number of children per adult woman) from Exercise 2.21 are shown again in the table.
+a. Find the median of the fertility rates. Interpret.
+b. Find the mean of the fertility rates. Interpret.
+c. For each woman, the number of children is a whole number, such as 2 or 3. 
+Explain why it makes sense to measure a mean number of children per adult woman (which is not a whole number) to 
+compare fertility levels, such as the fertility levels of 1.5 in Canada and 2.2 in Mexico.
+-------------------
+
+Country  Fertility   Country      Fertility
+Austria    1.5       Netherlands    1.7
+Belgium    1.7       Norway         1.7
+Denmark    1.8       Spain          1.3
+Finland    1.6       Sweden         1.6
+France     1.9       Switzerland    1.5
+Germany    1.6       United Kingdom 1.8
+Greece     1.4       United States  1.8
+Ireland    1.8       Canada         1.5
+Italy      1.3       Mexico         2.2
+
+a. (1.3, 1.3, 1.4, 1.5, 1.5, 1.5, 1.6, 1.6, 1.6, 1.7, 1.7, 1.7, 1.8, 1.8, 1.8, 1.8, 1.9, 2.2)_median = (1.6 + 1.7) / 2 = 1.65
+The median fertility rate among these countries is 1.65 children per adult woman, which means half the countries have a 
+fertility rate below 1.65 and half above. It represents a typical value for the group.
+
+b. mean is (30.1 / 18) = 1.672. The average number of children per adult woman across these countries is approximately 1.67.
+Since the mean and median are close, this suggests the distribution is roughly symmetric (no strong skew).
+
+c. While individual women can only have whole numbers of children, the mean fertility rate is an average across a population.
+It tells us the expected number of children per woman in a large group, which helps compare overall fertility levels between countries.
+
+Example:
+    In Canada, a fertility rate of 1.5 means that for every 100 women, there are approximately 150 children.
+    In Mexico, a fertility rate of 2.2 means 220 children per 100 women — showing a higher population growth trend.
+
+So even though 1.5 or 2.2 isn’t possible for one person, it’s a very meaningful and accurate measure at the population level.

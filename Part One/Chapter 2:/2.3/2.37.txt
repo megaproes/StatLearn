@@ -1,0 +1,11 @@
+2.37 Labor dispute 
+The workers and the management of a company are having a labor dispute. 
+Explain why the workers might use the median income of all the employees to justify a raise 
+but management might use the mean income to argue that a raise is not needed.
+--------------
+
+The workers would prefer to use the median income because it better reflects what a typical employee actually earns. 
+Since median is not affected by extreme outliers, it avoids being skewed by a few very high salaries at the top of the company.
+
+On the other hand, management might use the mean income, which can be inflated by high-earning executives or specialists. 
+This makes it appear as though employees are earning more on average than they really are - allowing management to argue that a raise is unnecessary.

@@ -1,0 +1,15 @@
+2.35 Resistance to an outlier 
+
+Consider the following three sets of observations:
+Set 1: 8, 9, 10, 11, 12
+Set 2: 8, 9, 10, 11, 100
+Set 3: 8, 9, 10, 11, 1000
+a. Find the median for each data set.
+b. Find the mean for each data set.
+c. What do these data sets illustrate about the resistance of the median and mean?
+------------
+
+a. Each has median 10.
+b. Set1_mean = 10, Set2_mean = 27.6, Set3_mean = 207.6
+c. These data sets show that the median is resistant to outliers - it stays the same even when extreme values are added.
+The mean is not resistant - it is highly affected by large outliers and becomes distorted.

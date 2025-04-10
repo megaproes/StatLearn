@@ -1,0 +1,51 @@
+2.40 Public transportation—center 
+The owner of a company in downtown Atlanta is concerned about the large use of gas-
+oline by her employees due to urban sprawl, traffic congestion, and the use of energy-inefficient vehicles such as SUVs.
+She’d like to promote the use of public transportation. 
+She decides to investigate how many miles her employees travel on public transportation during a typical day. 
+
+The values for her 10 employees (recorded to the closest mile) are
+0 0 4 0 0 0 10 0 6 0
+a. Find and interpret the mean, median, and mode.
+b. She has just hired an additional employee. He lives in a different city and travels 90 miles a day on public transport. 
+Recompute the mean and median. Describe the effect of this outlier.
+-------------
+
+a.  
+Mean:
+Add all values:
+0 + 0 + 4 + 0 + 0 + 0 + 10 + 0 + 6 + 0 = 20
+Divide by 10:
+Mean = 20 / 10 = 2 miles
+
+Median:
+Sorted: 0, 0, 0, 0, 0, 0, 0, 4, 6, 10
+Median = average of 5th and 6th values = (0 + 0) / 2 = 0
+
+Mode:
+The value that occurs most frequently:
+	Mode = 0 (it appears 7 times)
+
+Interpretation:
+    Mean = 2 miles: This includes higher values, but is inflated by the 4, 6, and 10 mile commuters.
+    Median = 0 miles: Reflects the typical employee - most don't use public transport at all.
+    Mode = 0 miles: Confirms that most employees don’t commute via public transit.
+
+
+
+b. New data: 0, 0, 4, 0, 0, 0, 10, 0, 6, 0, 90
+
+New Mean:
+Sum = 20 (original) + 90 = 110
+Number of values = 11
+Mean = 110 / 11 = 10 miles
+ 
+New Median:
+Full sorted list:
+0, 0, 0, 0, 0, 0, 0, 4, 6, 10, 90
+Median = 6th value = 0
+
+Effect of the Outlier (90 miles):
+    The mean jumps from 2 to 10, a huge shift, even though only 1 person takes such a long trip.
+    The median stays the same (0) — it’s not affected by the outlier.
+    This illustrates how the mean is sensitive to outliers, while the median is resistant.

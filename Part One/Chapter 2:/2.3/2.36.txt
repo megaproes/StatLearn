@@ -1,0 +1,17 @@
+2.36 Weekly earnings and gender 
+In New Zealand, the mean and median weekly earnings for males in 2009 was $993 and $870, respectively, and for females, the mean and
+median weekly earnings were $683 and $625, respectively. 
+
+Does this suggest that the distribution of weekly earnings for males is symmetric, skewed to the right, or skewed to the left? 
+What about the distribution of weekly earnings for females? Explain.
+---------------
+
+Males: Mean > Median -> Right-skewed
+
+This suggests the distribution of male weekly earnings is skewed to the right.
+That means while most males earn around or below the median ($870), a smaller number of high-income earners are pulling the mean upward.
+
+Females: Mean > Median -> Right-skewed
+
+The same pattern applies here: the distribution is right-skewed, though the gap between mean and median is a bit smaller.
+This still indicates that a few higher-earning females are increasing the mean compared to the median.

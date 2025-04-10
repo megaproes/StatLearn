@@ -1,0 +1,16 @@
+2.32 Median versus mean 
+For each of the following variables, would you use the median or mean for describing the
+center of the distribution? Why? (Think about the likely shape of the distribution.)
+a. Salary of employees of a university
+b. Time spent on a difficult exam
+c. Scores on a standardized test
+----------
+
+a. Median since shape is likely to be skewed to the right, meaning most employees earn lower to mid-range salaries, 
+and only a few top executives or specialists earn very high salaries.
+
+b. Median. Most students will likely use most of the time allotted, clustering toward the higher end of the time range. 
+But a few students may finish quickly, creating a longer left tail (lower times).
+
+c. Mean. Standardized tests (like SATs, IQ tests, GREs, etc.) are often designed to produce a symmetric, 
+bell-shaped (normal) distribution. That’s how they ensure fairness and comparability.

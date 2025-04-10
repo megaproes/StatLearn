@@ -1,0 +1,18 @@
+2.47 Accidents 
+One variable in a study measures how many serious motor vehicle accidents a subject has had in the past year. 
+Explain why the mean would likely be more useful than the median for summarizing the responses of the 60 subjects.
+------------
+
+In this case, the mean is likely more useful than the median because most people will report zero accidents, and very few will report 1 or more.
+The median will probably be zero, which doesn't help distinguish between groups or reflect small differences across subjects.
+
+By contrast, the mean (even if it's a small number like 0.05 or 0.10) captures the overall rate of accidents per person, which is:
+    More sensitive to differences in accident frequency
+    More informative when comparing groups (e.g., those who commute vs. those who don’t)
+    Useful in risk analysis or public safety planning
+
+Example:
+
+If 58 out of 60 people had 0 accidents, and 2 had 1 accident each:
+    Median = 0 - doesn't show any variation
+    Mean = 2 / 60 = 0.033 - tells us there's an average of 0.033 accidents per person

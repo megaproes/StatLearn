@@ -1,0 +1,18 @@
+2.34 More on CO2 emissions 
+The Energy Information Agency reported the CO2 emissions (measured in gigatons, Gt) from fossil fuel combustion for the top 
+10 emitting countries in 2011. 
+These are China (8 Gt), the United States (5.3 Gt), India (1.8 Gt), Russia (1.7 Gt), Japan (1.2 Gt), Germany (0.8 Gt), 
+Korea (0.6 Gt), Canada (0.5 Gt), Iran (0.4 Gt), and Saudi Arabia (0.4 Gt).
+a. Find the mean and median CO2 emission.
+b. The totals reported here do not take into account a nation’s population size. 
+Explain why it may be more sensible to analyze per capita values, as was done in Example 11.
+------------------
+
+a. 
+Mean = (8 + 5.3 + 1.8 + 1.7 + 1.2 + 0.8 + 0.6 + 0.5 + 0.4 + 0.4) / 10 = 2.07 Gt
+Median = (1.2 + 0.8) / 2 = 1
+
+b. Analyzing total CO₂ emissions alone doesn't account for population size. 
+A large country like China or India naturally emits more CO₂ just because it has more people.
+
+Per capita emissions (emissions per person) are a fairer way to compare countries because they reflect the average individual’s contribution to emissions.

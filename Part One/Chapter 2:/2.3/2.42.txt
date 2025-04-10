@@ -1,0 +1,10 @@
+2.42 Baseball salaries 
+The players on the New York Yankees baseball team in 2014 had a mean salary of $7,387,498 and a median salary of $5,500,000.6 
+What do you think causes these two values to be so different (data in NYYsalary file on the book’s website)?
+-----------
+
+The difference between the mean and median suggests that the distribution of salaries is right-skewed.
+This happens because a few players (like star athletes or top-tier veterans) likely earn extremely 
+high salaries -— much higher than the rest of the team.
+
+These outliers pull the mean upward, making it much higher than the median, even though most players earn closer to the median amount.
