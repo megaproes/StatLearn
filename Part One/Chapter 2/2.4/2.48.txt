@@ -1,0 +1,27 @@
+2.48 Traffic violations 
+A company decides to examine the number of points its employees have accumulated in the
+last two years on a driving point record system. A sample of 12 employees yields the following observations:
+0 5 3 4 8 0 4 0 2 3 0 1
+
+a. Find and interpret the range.
+b. Find and interpret the standard deviation s.
+c. Suppose 2 was recorded incorrectly and is supposed to be 20. Redo parts a and b with the rectified data and describe the effect of this outlier.
+---------
+
+a. Range is 8 - 0 = 8. 
+The range tells us that the spread between the lowest and highest point values is 8.
+However, it says nothing about how most data values are distributed — it's sensitive to outliers and not a robust measure of variability.
+
+b. mean_{0 0 0 0 1 2 3 4 5 8} = 23/10 = 2.3, 
+s^2 = ((0 - 2.3)^2 + (0 - 2.3)^2 + (0 - 2.3)^2 + (0 - 2.3)^2 + (1 - 2.3)^2 + (2 - 2.3)^2 + (3 - 2.3)^2 + (4 - 2.3)^2 + (5 - 2.3)^2 + (8 - 2.3)^2) / 9 = 
+= (21.16 + 1.69 + 0.09 + 1.69 + 5.29 + 10.89 + 32.49) / 9 = 73.3 / 9 = 8.21.
+s ~= 2.87. 
+
+The standard deviation is about 2.87, meaning that on average, employees' driving points differ from the mean by about 2.5 points.
+
+c. mean_{0 0 0 0 1 3 4 5 8 20} = 41/10 = 4.1
+s^2 = (... + 313.29)/9 = 39.34.
+s ~= 6.27
+
+Replacing the value 2 with 20 causes a major increase in both the mean (from 2.3 to 4.1) and the standard deviation (from 2.87 to 6.27).
+This demonstrates how sensitive the standard deviation is to outliers, as it weights larger deviations much more heavily.
