@@ -1,0 +1,23 @@
+2.49 Life expectancy 2020 
+The Human Development Report 2020, published by the United Nations, showed life expectan-
+cies at birth (in years) by country. For Europe, some values reported were Norway 82.4, Ireland 82.3, Switzerland 83.8, Austria 81.5, 
+Germany 81.3, Sweden 82.8, United Kingdom 81.3, Belgium 81.6,
+New Zealand 81.3, Luxembourg 82.3, Netherlands 82.3, Denmark 80.9, Finland 81.9, France 82.7, Greece 82.2, and Italy 83.5.
+
+For Asia, some values reported were Hong Kong 84.9, Singapore 83.6, Japan 84.6, Republic of Korea 83.0, Sri Lanka 77.0, Thailand 77.2, 
+Maldives 78.9, Mongolia 69.9, Philippines 71.2, Bhutan 71.8, Bangladesh 72.6, India 69.7, Myanmar 67.1, Pakistan 67.3, Afghanistan 64.8, and Vietnam 75.4.
+
+a. Which group (Europe or Asia) of life expectancies do you think has the larger standard deviation? Why?
+b. Find the standard deviation for each group. Compare them to illustrate that s is larger for the group that
+shows more variability from the mean. You can see how similar data is represented by typing the values for groups into the Explore Quantitative Data app
+------------
+
+a. Asia since its values are more vary around the mean.
+b. 
+
+Europe:
+mean_{82.4 82.3 83.8 81.5 81.3 82.8 81.3 81.6 81.3 82.3 82.3 80.9 81.9 82.7 82.2 83.5} = 1314.1/16 = 82.13
+s^2 = ((82.4 - 82.13)^2 + (82.3 - 82.13)^2 + (83.8 - 82.13)^2 + (81.5 - 82.13)^2 + (81.3 - 82.13)^2 + (82.8 - 82.13)^2
++ (81.3 - 82.13)^2 + (81.6 - 82.13)^2 + (81.3 - 81.3)^2 + (82.3 - 82.13)^2 + (80.9 - 82.13)^2 + (81.9 - 82.13)^2
++ (82.7 - 82.13)^2 + (82.2 - 82.13)^2 + (83.5 - 82.13)^2) / (16-1) = 0.61
+s = 0.78

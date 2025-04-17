@@ -1,0 +1,10 @@
+2.51 Shape of vaccine production? 
+According to the Indian Medical Association, the median production of vaccine units in India in the first week of July 2021 was 864,000. 
+Which of the following is the most plausible value for the standard deviation: -20,000, 100, 25,000, or 1,200,000? 
+Why? Explain what is unrealistic about each of the other values.
+------------
+
+-20,000 is not valid — standard deviation can't be negative.
+100 is too small for such a large number; it would mean the data barely varies at all, which isn’t realistic for large-scale production.
+1,200,000 is too large — subtracting that from 864,000 gives a negative value, which isn’t possible since vaccine production can’t be negative.
+So, ±25,000 is the most reasonable. It allows for natural variation without going into unrealistic extremes.

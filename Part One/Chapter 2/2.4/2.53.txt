@@ -1,0 +1,19 @@
+2.53 Heights 
+From the survey of college students from Georgia in Example 14, the males had x_mean = 71 and s = 3,
+and the females had x_mean = 65 and s = 3.
+
+a. Use the empirical rule to describe the distribution of heights for males.
+
+b. The standard deviation for the overall distribution (combining females and males) was 4. 
+Why would you expect it to be larger than the standard deviations for the separate male and female height distributions?
+Would you expect the overall distribution still to be unimodal? Would the empirical rule apply?
+---------------
+
+a. About 68% of heights for males will fall within one standard deviation of the mean, so between 68 and 74 inches (71 ± 3). 
+About 95% should fall within two standard deviations (65 to 77 inches), and about 99.7% within three standard deviations (62 to 80 inches).
+
+b. The overall standard deviation is larger because the combined group includes both males (who tend to be taller) and 
+females (who tend to be shorter), so there’s more variation overall.
+
+I would not expect the combined distribution to be unimodal; it would likely be bimodal since males and females have different average heights. 
+Since the overall distribution isn’t normal or unimodal, the empirical rule wouldn’t apply well to the combined data.

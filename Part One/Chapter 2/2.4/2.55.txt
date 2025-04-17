@@ -1,0 +1,10 @@
+2.55 Female strength 
+The High School Female Athletes data file on the book’s website has data for 57 female high school athletes on the maximum number of pounds
+they were able to bench press. 
+
+The data are roughly bell shaped, with x_mean = 79.9 and s = 13.13. Use the empirical rule to describe the distribution.
+------------
+
+Due to bell shape distribution of data, we can infer that roughly 68% of female athletes bench a press within (79.9 - 13.13, 79.9 + 13.3) = 
+= (66.6, 93.2) pounds. Nearly 95% bench a press within (79.9 - 13.13 * 2, 79.9 + 13.13 * 2) = (53.64, 106.16), and nearly 99.7 within
+(79.9 - 13.13 * 3, 79.9 + 13.13 * 3) = (40.51, 119.29)

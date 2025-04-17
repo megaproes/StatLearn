@@ -1,0 +1,14 @@
+2.52 Exam standard deviation 
+For an exam given to a class, the students’ scores ranged from 35 to 98, with a mean of 74. 
+Which of the following is the most realistic value for the standard deviation: -10, 0, 3, 12, 63? 
+Clearly explain what’s unrealistic about each of the other values.
+------------
+-10 is impossible since standard deviation can’t be negative.
+
+0 is also impossible — that would mean every student scored exactly 74, but the scores range from 35 to 98.
+
+3 is too small — it would mean nearly all scores are within just a few points of 74, which doesn’t match the wide range.
+
+12 is the most reasonable — it allows for scores to spread naturally around 74 while still fitting the range.
+
+63 is way too large — if the standard deviation were 63, many scores would fall far outside the actual range of 35 to 98, which isn’t possible.

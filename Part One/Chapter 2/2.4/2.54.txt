@@ -1,0 +1,16 @@
+2.54 Students’ shoe size 
+
+Data collected over several years from college students enrolled in a business statistics class
+regarding their shoe size shows a roughly bell-shaped distribution, with x = 9.91 and s = 2.07.
+a. Give an interval within which about 95% of the shoe sizes fall.
+b. Identify the shoe size of a student, which is three stan- dard deviations above the mean in this sample. 
+Would this be a rather unusual observation? Why?
+--------------
+
+a. Since the data is roughly bell-shaped, about 95% of the shoe sizes fall within 2 standard deviations of the mean:
+9.91 ± 2 × 2.07 = (5.77, 14.05)
+
+b. Three standard deviations above the mean is:
+9.91 + 3 × 2.07 = 16.129
+Yes, this would be considered unusual because in a bell-shaped (normal) distribution, values that fall more than 3 standard deviations 
+from the mean are rare - they happen less than 1% of the time.
