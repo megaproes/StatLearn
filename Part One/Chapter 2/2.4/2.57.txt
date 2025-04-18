@@ -1,0 +1,13 @@
+2.57 Shape of cigarette taxes 
+
+A recent summary for the distribution of cigarette taxes (in cents) among the 50 states and Washington, D.C., in the United States reported x_mean = 73 and s = 48. 
+Based on these values, do you think that this distribution is bell shaped? If so, why? If not, why not, and what shape would you expect?
+--------------
+
+It’s not bell shaped. For a normal (bell‑shaped) distribution, about 99.7% of the data lie within ±3 s of the mean—that is, between
+73 − 3 × 48 = −71 and 73 + 3 × 48 = 217.
+
+
+Negative tax rates are impossible, so the implied lower bound rules out a symmetric bell curve. 
+Because taxes can’t go below zero and a few states have very high rates, I would expect a right‑skewed distribution: 
+most states cluster at low to moderate taxes, with a long tail extending toward the high end.

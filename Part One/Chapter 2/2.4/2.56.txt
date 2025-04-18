@@ -1,0 +1,12 @@
+2.56 College athlete height 
+The College Athletes data file on the book’s website has data for 64 college athletes. The
+data on height (in inches) are roughly bell shaped, with x_mean = 66 and s = 4.
+
+a. Give an interval within which about 95% of the heights fall.
+b. Identify the height of an athlete who is 3 standard deviations below the mean in this sample. Would this be a rather unusual observation? Why?
+----------
+
+a. (66 - 2 * 4, 66 + 2 * 4) = (58, 74).
+
+b. (66 + 3 * 4) = 78. Yes, this would be considered unusual since in a bell-shaped distribution, 
+values more than 3 standard deviations from the mean are rare and fall in less than 1% of the data.

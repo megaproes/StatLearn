@@ -1,0 +1,15 @@
+2.58 Empirical rule and skewed, highly discrete distribution
+The table below shows data on the number of times 20- to 24-year-old men have been married. (Source: Bureau of the Census report 2004, U.S. Department of Commerce.)
+No.Times Count   Percentage
+0 	    8,418     84.0
+1 	    1,594     15.9
+2 	       10     0.1
+Total   10,022     100.0
+
+a. Verify that the mean number of times men have been married is 0.16 and that the standard deviation is 0.37.
+b. Find the actual percentages of observations within 1, 2, and 3 standard deviations of the mean. 
+How do these compare to the percentages predicted by the empirical rule?
+c. How do you explain the results in part b?
+--------------
+
+	
