@@ -5,3 +5,8 @@ Of 350 collected responses, the mode was 9, the median was 14, the mean was 17, 
 Based on these statistics, what would you surmise about the shape of the distribution? Why?
 -----------------
 
+Since the mean is higher than the median, this suggests that the data is influenced by some unusually high values — which pull the mean upward. 
+
+That’s a sign of a right-skewed distribution. 
+The mode being lower than both the median and mean supports this as well, and the relatively 
+large standard deviation points to a wide spread in the data, consistent with right skewness.

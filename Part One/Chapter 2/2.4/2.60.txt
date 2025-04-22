@@ -1,0 +1,16 @@
+2.60 Facebook friends 
+
+A student asked her coworkers, parents, and friends, “How many friends do you have on Facebook?” 
+She summarized her data and reported that the average number of Facebook friends in her sample is 170 with a standard deviation of 90. 
+The distribution had a median of 120 and a mode of 105.
+
+a. Based on these statistics, what would you surmise about the shape of the distribution? Why?
+b. Does the empirical rule apply to these data? Why or why not?
+-------------
+
+a. Since the mean is greater than the median, it suggests that the distribution is right-skewed. 
+The mode is even lower than the median, which supports this. 
+The large standard deviation also shows the data has a wide spread and likely includes extreme high values (outliers).
+
+b. No, the empirical rule does not apply here. The data is not bell-shaped — it’s skewed — and the empirical rule only works well 
+for distributions that are roughly symmetric and normal.
