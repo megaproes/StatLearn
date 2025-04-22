@@ -12,4 +12,44 @@ How do these compare to the percentages predicted by the empirical rule?
 c. How do you explain the results in part b?
 --------------
 
-	
+a. x_mean = (0 * 8418 + 1594 * 1 + 10 * 2) / 10022 = 0.16
+
+
+s^2 = (0^2 * 8418 + 1^2 * 1594 + 2^2 * 10) / 10022 - 0.16^2 = 0.137;
+s = 0.37
+
+b. 
++-1s: (0.16 +- 0.37)     = (-0.21, 0.53).
++-2s: (0.16 +- 2 * 0.37) = (-0.58, 0.9). 
++-3s: (0.16 +- 3 * 0.37) = (-0.95, 1.27) 
+
+- ±1s → Only value 0 is in the interval (-0.21, 0.53)  → Percent = 8418 / 10022 ≈ 84.0%
+- ±2s → Still only value 0 fits					→ Still 84.0%
+- ±3s → Values 0 and 1 fall in the range (-0.95, 1.27) → Percent ≈ 99.9%
+
+Range | Actual % | Empirical Rule %
+±1 s | 84.0% | 68%
+±2 s | 84.0% | 95%
+±3 s | 99.9% | 99.7%
+
+So the percentages don’t match what the empirical rule predicts. 
+
+c. The empirical rule only works well for bell-shaped (normal) distributions.
+This dataset is:
+    1. Highly skewed (most people = 0 marriages)
+    2. Very discrete (only 3 possible values: 0, 1, 2)
+    
+That breaks the assumptions of the empirical rule.
+
+
+
+
+
+
+
+
+
+
+
+
+

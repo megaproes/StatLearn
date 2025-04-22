@@ -1,0 +1,7 @@
+2.59 Time spent using electronic devices 
+A student conducted a survey about the amount of free time spent using electronic devices in a week. 
+
+Of 350 collected responses, the mode was 9, the median was 14, the mean was 17, and the standard deviation was 11.5. 
+Based on these statistics, what would you surmise about the shape of the distribution? Why?
+-----------------
+
