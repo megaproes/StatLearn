@@ -1,0 +1,57 @@
+2.65 Youth unemployment 
+For the 28 EU nations, the following table shows the unemployment rate among 15- to 24-year-olds in 2013. 
+
+If you are computing the statistics below by hand, it may be easier to arrange the data in increasing order and write them in four rows of seven values each.
+a. Find and interpret the second quartile (median).
+b. Find and interpret the first quartile (Q1).
+c. Find and interpret the third quartile (Q3).
+d. Will the 10th percentile be around the value of 6 or 16? Explain.
+--------------------------
+          Country       Unemployment_Rate
+        Austria               4.9
+        Germany               5.3
+     Luxembourg               5.8
+          Malta               6.5
+    Netherlands               6.7
+ Czech Republic               7.0
+        Denmark               7.0
+        Romania               7.3
+ United Kingdom               7.5
+         Sweden               8.0
+        Finland               8.2
+        Belgium               8.4
+        Estonia               8.6
+       Slovenia              10.1
+        Hungary              10.2
+         France              10.3
+         Poland              10.3
+      Lithuania              11.8
+         Latvia              11.9
+          Italy              12.2
+       Bulgaria              13.0
+        Ireland              13.1
+       Slovakia              14.2
+         Cyprus              15.9
+       Portugal              16.5
+        Croatia              17.2
+          Spain              26.4
+         Greece              27.3
+
+a. The median (second quartile) is the average of the 14th and 15th values in the ordered dataset. 
+These are Hungary (10.2) and France (10.3), giving us a median of (10.2 + 10.3)/2 = 10.25%. 
+This tells us that half of the 28 EU nations had youth unemployment rates below 10.25%, while the other half experienced rates above this threshold.
+
+b. The first quartile (Q1) is the average of the 7th and 8th values: Denmark (7.0) and Romania (7.3). Therefore, Q1 = (7.0 + 7.3)/2 = 7.15%. 
+This indicates that 25% of EU nations maintained relatively low youth unemployment rates at or below 7.15%, representing the countries 
+with the most successful youth employment policies.
+
+c. The third quartile (Q3) is the average of the 21st and 22nd values: Ireland (13.1) and Slovakia (14.2). Therefore, Q3 = (13.1 + 14.2)/2 = 13.65%. 
+This means that 75% of EU nations had youth unemployment rates below 13.65%, while the remaining 25% struggled with particularly high rates above this level.
+
+d. The 10th percentile will be around 6 rather than 16. Here's the reasoning: with 28 countries, the 10th percentile represents the point below which 10% of the data falls. Ten percent of 28 is 2.8 countries, so we're looking at approximately the position of the 3rd lowest value. 
+The three lowest unemployment rates are Austria (4.9%), Germany (5.3%), and Luxembourg (5.8%). 
+
+The 10th percentile would fall near Luxembourg's value of 5.8%, which is much closer to 6 than to 16. 
+A value of 16 would actually be closer to the 75th percentile, given that most countries cluster in the lower ranges with only a few outliers like 
+Spain and Greece having extremely high rates
+

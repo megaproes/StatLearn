@@ -1,0 +1,21 @@
+2.67 Students’ shoe size 
+
+Data collected over several years from college students enrolled in a business statistics class regarding their shoe size is numerically summarized by
+x = 9.91, Q1 = 8, median = 10, Q3 = 11.
+a. Interpret the quartiles.
+b. Would you guess that the distribution is skewed or roughly symmetric? Why?
+------------
+
+a. The quartiles reveal interesting patterns in student shoe sizes. The first quartile of 8 indicates that 25% of students have shoe sizes below 8, 
+representing those with smaller feet. The median of 10 shows that half the students wear sizes below 10, making this the typical shoe size in the class. 
+The third quartile of 11 demonstrates that 75% of students wear sizes below 11, with only the largest 25% requiring sizes above this threshold. 
+The interquartile range spans from 8 to 11, meaning the middle 50% of students fall within a relatively narrow 3-unit range of shoe sizes.
+
+b. The distribution appears to be left-skewed (negatively skewed) based on several converging pieces of evidence. 
+First, examining the quartile spacing reveals asymmetry: the distance from Q1 to the median (2 units) is twice as large as the distance from the median to Q3 (1 unit). 
+This indicates that shoe sizes are more spread out below the median than above it, creating a longer tail extending toward smaller sizes. 
+
+Second, the mean (9.91) is slightly lower than the median (10), which occurs when extreme values on the lower end pull the mean downward while the 
+median remains relatively stable. This left skewness makes intuitive sense in the context of shoe sizes, where there's a natural lower boundary 
+(people can't have extremely small adult shoe sizes), but the upper end can extend further, creating asymmetry in the distribution. 
+The skewness likely reflects the inclusion of both male and female students, where the smaller shoe sizes of female students create the extended lower tail.

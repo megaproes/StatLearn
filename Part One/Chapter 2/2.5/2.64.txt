@@ -1,0 +1,29 @@
+2.64 Vacation days 
+
+National Geographic Traveler magazine recently presented data on the annual number of vacation
+days averaged by residents of eight countries. 
+They reported 42 days for Italy, 37 for France, 35 for Germany, 34 for Brazil, 28 for Britain, 26 for Canada, 25 for Japan, and 13 for the United States.
+
+a. Report the median.
+b. By finding the median of the four values below the median, report the first quartile.
+c. Find the third quartile.
+d. Interpret the values found in parts a–c in the context of these data.
+
+----------------
+
+a. Arranging the data in ascending order: {13, 25, 26, 28, 34, 35, 37, 42}. 
+With 8 observations, the median is the average of the 4th and 5th values: (28 + 34)/2 = 31 vacation days.
+
+b. The first quartile (Q1) is the median of the four values below the overall median {13, 25, 26, 28}. Therefore, Q1 = (25 + 26)/2 = 25.5 vacation days.
+
+c. The third quartile (Q3) is the median of the four values above the overall median {34, 35, 37, 42}. Therefore, Q3 = (35 + 37)/2 = 36 vacation days.
+
+d. These quartiles reveal important patterns in international vacation policies. The median of 31 vacation days indicates that half of these eight countries 
+provide fewer than 31 vacation days annually, while half provide more. 
+
+The first quartile of 25.5 days shows that 25% of countries (in this case, the US and Japan) offer relatively few vacation days. 
+
+The third quartile of 36 days indicates that 75% of countries provide 36 or fewer vacation days, with only the top 25% (Italy and France) exceeding this threshold. 
+
+This analysis suggests significant variation in vacation policies across these nations, with the United States notably providing the fewest days at 13, 
+far below even the first quartile.

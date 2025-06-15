@@ -1,0 +1,26 @@
+2.66 Female strength 
+
+The High School Female Athletes data file on the book’s website has data for 57 high school female athletes on the maximum number of pounds they were able to bench
+press, which is a measure of strength. 
+
+For these data, x_mean = 79.9, Q1 = 70, median = 80, Q3 = 90.
+a. Interpret the quartiles.
+b. Would you guess that the distribution is skewed or roughly symmetric? Why?
+-----------------
+
+a. The quartiles reveal the distribution of strength among these female athletes. The first quartile of 70 pounds indicates that 25% of athletes 
+could bench press 70 pounds or less, representing the lower-strength group. The median of 80 pounds shows that exactly half the athletes could bench 
+press 80 pounds or less, making this the typical performance level. 
+
+The third quartile of 90 pounds demonstrates that 75% of athletes achieved 90 pounds or less, meaning only the strongest 25% exceeded this level. 
+Together, these quartiles show that the middle 50% of athletes fall within a 20-pound range (70-90 pounds), suggesting relatively 
+consistent strength levels among most participants.
+
+b. The distribution appears to be roughly symmetric based on several key indicators. First, the distances between consecutive quartiles are equal: both the lower half 
+(Q1 to median) and upper half (median to Q3) span exactly 10 pounds, suggesting balanced spread above and below the center. 
+
+Second, the mean (79.9 pounds) and median (80 pounds) are nearly identical, differing by only 0.1 pounds. 
+In skewed distributions, the mean typically gets pulled toward the longer tail, creating a noticeable gap between mean and median. 
+The fact that these measures of central tendency are so close strongly suggests the distribution is symmetric. 
+This symmetry makes sense for biological measurements like strength, which often follow roughly normal distributions in homogeneous populations 
+like high school female athletes.
