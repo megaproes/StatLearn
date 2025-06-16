@@ -1,0 +1,33 @@
+2.69 Variability of net worth of billionaires 
+
+Here is the five-number summary for the distribution of the net worth
+(in billions) of the 659 top World’s Billionaires according to Forbes magazine.
+Minimum = 2.9, Q1 = 3.6, Median = 4.8, Q3 = 8.2, Maximum = 79.2
+
+a. About what proportion of billionaires have wealth (i) greater than $3.6 billion and (ii) greater than $8.2 billion?
+b. Between which two values are the middle 50% of the observations found?
+c. Find the interquartile range. Interpret it.
+d. Based on the summary, do you think that this distribution was bell shaped? If so, why? If not, why not, and what shape would you expect?
+--------------
+
+a. 
+(i) Since Q1 = $3.6 billion represents the 25th percentile, approximately 75% of billionaires have wealth greater than $3.6 billion. 
+(ii) Since Q3 = $8.2 billion represents the 75th percentile, approximately 25% of billionaires have wealth greater than $8.2 billion.
+
+b. The middle 50% of billionaires have net worth between $3.6 billion (Q1) and $8.2 billion (Q3). 
+This means half of all billionaires fall within this wealth range, representing the "typical" wealth levels among the world's billionaires.
+
+c. The interquartile range is IQR = Q3 - Q1 = $8.2 - $3.6 = $4.6 billion. 
+This tells us that the middle 50% of billionaires' wealth spans a range of $4.6 billion, providing a measure of variability that isn't 
+affected by the extreme wealth of the richest billionaires or those at the lower end of the billionaire threshold.
+
+d. This distribution is definitely not bell-shaped; instead, it appears to be strongly right-skewed (positively skewed). 
+Several pieces of evidence support this conclusion: First, the median ($4.8 billion) is much closer to Q1 ($3.6 billion) than to Q3 ($8.2 billion), 
+indicating that wealth values are compressed in the lower range and more spread out in the upper range. 
+
+Second, the distance from Q1 to the median is only $1.2 billion, while the distance from the median to Q3 is $3.4 billion - nearly three times larger. 
+Most telling, the maximum value of $79.2 billion is extraordinarily far from Q3, creating an extremely long right tail. This shape makes perfect sense for wealth data, 
+where there's a natural lower boundary (you need at least a few billion to be on the list) but virtually no upper limit, allowing a few individuals like tech moguls 
+and oil magnates to accumulate vastly more wealth than typical billionaires. 
+
+The right-skewed distribution reflects the reality that while most billionaires cluster in the lower billions, a few exceptional cases extend far into the tens of billions.
