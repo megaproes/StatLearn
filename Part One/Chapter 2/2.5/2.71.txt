@@ -1,0 +1,28 @@
+2.71 Per Capita Income Asia 
+The Net National Income Per Capita, 2017, published by Statista, showed national per capita income 
+(national income divided by total population, in ’000 USD) by country. 
+For Asia, some of the values reported were: Nepal 0.78, Bangladesh 1.05, Pakistan 1.17, Myanmar 1.31, Bhutan 2.5, Indonesia 3.06, Philippines 3.19, Sri Lanka
+3.63, Thailand 4.67, China 5.47, Malaysia 8.85, South Korea 21.71, Japan 39.31, and Singapore 44.58.
+
+a. Find the first quartile (Q1) and the third quartile (Q3).
+b. Find the interquartile range (IQR). Interpret it.
+-------------
+
+a. Arranging the data in ascending order: {0.78, 1.05, 1.17, 1.31, 2.5, 3.06, 3.19, 3.63, 4.67, 5.47, 8.85, 21.71, 39.31, 44.58}
+With 14 countries, we split the data into lower and upper halves:
+
+Lower half: {0.78, 1.05, 1.17, 1.31, 2.5, 3.06, 3.19}
+Upper half: {3.63, 4.67, 5.47, 8.85, 21.71, 39.31, 44.58}
+
+Q1 (first quartile) = 1.31 thousand USD (the median of the lower half - Myanmar's income level)
+Q3 (third quartile) = 8.85 thousand USD (the median of the upper half - Malaysia's income level)
+
+b. The interquartile range is IQR = Q3 - Q1 = 8.85 - 1.31 = 7.54 thousand USD. This means that the middle 50% of Asian countries in this 
+dataset have per capita incomes spanning a range of $7,540. In economic terms, this represents the income spread among "middle-tier" Asian economies, 
+excluding both the poorest countries (like Nepal and Bangladesh) and the wealthiest (like Japan and Singapore). 
+
+The IQR reveals substantial economic diversity even among the central group of Asian nations, with countries like Myanmar ($1,310 per capita) 
+representing the lower boundary of typical middle-income Asia, while Malaysia ($8,850 per capita) represents the upper boundary. 
+
+This $7,540 gap illustrates the significant economic development variations across the region, reflecting different stages of industrialization, 
+natural resource endowments, and economic policies among Asian countries.

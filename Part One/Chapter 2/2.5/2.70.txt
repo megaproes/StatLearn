@@ -1,0 +1,32 @@
+2.70 Traffic violations 
+
+A company decides to examine the number of points its employees have accumulated in the
+last two years on their driving record point system. A sample of 12 employees yields the following observations:
+0 5 3 4 8 0 4 0 2 3 0 1
+
+a. The standard deviation is 2.505. Find and interpret the range.
+
+b. The quartiles are Q1 = 0, median = 2.5, Q3 = 4. Find the interquartile range.
+
+c. Suppose the 2 was incorrectly recorded and is supposed to be 20. The standard deviation is then 5.625 but the quartiles do not change. Redo parts a and b with the
+correct data and describe the effect of this outlier.
+Which measure of variability, the range, IQR, or standard deviation is least affected by the outlier? Why?
+---------------
+
+a. Arranging the data in order: {0, 0, 0, 0, 1, 2, 3, 3, 4, 4, 5, 8}. The range is 8 - 0 = 8 points. 
+This indicates that the spread between the most and least penalized employees spans 8 violation points. 
+However, the range tells us nothing about the distribution of points among the middle employees - it only reflects the extreme cases.
+
+b. The interquartile range is IQR = Q3 - Q1 = 4 - 0 = 4 points. This means that the middle 50% of employees have accumulated violation points within a 4-point range, 
+providing a measure of typical variability that ignores the extreme cases (both the employees with no violations and those with the most violations).
+
+c. With the corrected data (changing 2 to 20):
+(a) The new range becomes 20 - 0 = 20 points, representing a 150% increase from the original range of 8 points. 
+This dramatic change shows how a single extreme value can completely distort our understanding of the data's spread when using the range.
+
+(b) The IQR remains exactly the same at 4 points because the quartiles are unchanged. 
+The outlier (20 points) falls in the upper 25% of the data, so it doesn't affect the boundaries of the middle 50%.
+
+Impact Analysis: The IQR is the least affected by the outlier, remaining completely unchanged while the range increases by 150% and the standard deviation 
+more than doubles (from 2.505 to 5.625). This occurs because the IQR focuses exclusively on the middle 50% of the data and completely ignores extreme values. 
+The quartiles that define the IQR (Q1 and Q3) are determined by positions in the ordered data rather than actual values, making them inherently resistant to outliers.
