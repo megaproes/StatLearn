@@ -1,0 +1,15 @@
+2.76 Energy statistics 
+
+The Energy Information Administration records per capita consumption of energy by country. The following box plot shows 2011 per
+capita energy consumption (in millions of BTUs) for 36 OECD countries, with a mean of 195 and a standard deviation of 120. 
+Iceland had the largest per capita consumption at 665 million BTU.
+
+a. Use the box plot to give approximate values for the five-number summary of energy consumption. (You can reconstruct the box plot with the app.)
+
+b. Italy had a per capita consumption of 139 million BTU. How many standard deviations from the mean was its consumption?
+
+c. The United States was not included in the data, but its per capita consumption was 334 million BTU. Relative to the distribution for the included OECD nations, the
+United States is how many standard deviations from the mean?
+---------------
+
+a. 

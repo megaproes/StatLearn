@@ -1,0 +1,24 @@
+2.72 Infant mortality Europe 
+
+For Western Europe, the infant mortality rates reported by the Human Development Report 2006 were:
+Sweden 3, Finland 3, Spain 3, Belgium 4, Denmark 4, France 4, Germany 4, Greece 4, Italy 4, Norway 4, Portugal 4, Netherlands 5, Switzerland 5, UK 5.
+
+Show that Q1 = Q2 = Q3 = 4. (The quartiles, like the median, are less useful when the data are highly discrete.)
+----------
+
+Let me demonstrate that Q1 = Q2 = Q3 = 4 by working through the calculations systematically.
+
+Ordered data: {3, 3, 3, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5} (14 countries)
+
+Finding Q1: Using the split-half method, the lower 7 values are {3, 3, 3, 4, 4, 4, 4}. The median of these 7 values is the 4th value = 4.
+
+Finding Q2 (median): With 14 observations, the median is the average of the 7th and 8th values. Both positions contain the value 4, so Q2 = (4 + 4)/2 = 4.
+
+Finding Q3: The upper 7 values are {4, 4, 4, 4, 5, 5, 5}. The median of these 7 values is the 4th value = 4.
+
+Therefore: Q1 = Q2 = Q3 = 4
+
+Why quartiles are less useful here: This example perfectly illustrates the limitation of quartiles with highly discrete data. 
+
+When most observations cluster around a single value (in this case, 4 deaths per 1,000 births), the quartiles collapse to the same 
+number and fail to reveal meaningful information about the distribution's spread.

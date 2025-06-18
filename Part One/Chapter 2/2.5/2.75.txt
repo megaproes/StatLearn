@@ -1,0 +1,8 @@
+2.75 Box plot for exam 
+
+The scores on an exam have mean = 88, standard deviation = 10, minimum = 65, Q1 = 77, median = 85, Q3 = 91, maximum = 100.
+
+Sketch a box plot, labeling which of these values are used in the plot.
+-----------------
+
+The minimum, Q1, median, Q3, and maximum are used in the box plot

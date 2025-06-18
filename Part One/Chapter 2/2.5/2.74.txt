@@ -1,0 +1,31 @@
+2.74 Central Park temperature distribution revisited 
+Exercise 2.29 showed a histogram for the distribution of Central Park annual average temperatures. The box plot for thesedata is shown here.
+
+a. If this distribution is skewed, would you expect it to be skewed to the right or to the left? Explain.
+b. Approximate each component of the five-number summary and interpret.
+---------------
+
+a. Based on the box plot, I would expect this distribution to be left-skewed (negatively skewed). Several pieces of evidence support this conclusion:
+First, there are outliers on the left side of the distribution, indicating some unusually cold years that extend the tail toward lower temperatures. 
+These outliers represent extreme values that pull the distribution's tail to the left.
+
+Second, the left whisker appears longer than the right whisker, suggesting that the lowest 25% of annual temperatures are more spread out than the highest 25%. 
+This asymmetry in the whisker lengths indicates more variability in the cooler temperatures.
+
+Third, within the box itself, the median appears to be positioned closer to the third quartile than to the first quartile, which is another indicator of left skewness.
+This pattern makes meteorological sense - while there may be a practical upper limit to how warm Central Park can get in a given year, unusually cold years 
+(perhaps due to volcanic eruptions, solar cycles, or other climate anomalies) can create more extreme deviations below the typical range.
+
+b. Reading from the box plot, the approximate five-number summary is:
+Minimum: ~50°F (the leftmost outlier)
+Q1: ~52.8°F (left edge of the box)
+Median (Q2): ~54.2°F (the line inside the box)
+Q3: ~55.2°F (right edge of the box)
+Maximum: ~57.5°F (end of the right whisker)
+
+Interpretation: This five-number summary reveals that Central Park's annual average temperatures are quite consistent, with the middle 50% of years falling within just 
+a 2.4°F range (from about 52.8°F to 55.2°F). The median temperature of approximately 54.2°F represents the typical annual average. 
+
+The presence of outliers around 50°F indicates that while most years cluster in the mid-50s, occasionally Central Park experiences significantly cooler annual averages, 
+likely due to unusual weather patterns or climate events. 
+The overall range spans about 7.5 degrees, showing that despite year-to-year variation, Central Park's climate remains relatively stable over time.

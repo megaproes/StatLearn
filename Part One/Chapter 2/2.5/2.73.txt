@@ -1,0 +1,28 @@
+2.73 Computer use 
+During a recent semester at the University of Florida, students having accounts on a mainframe computer had storage space use 
+(in kilobytes) described by the five-number summary, minimum = 4, Q1 = 256, median = 530, Q3 = 1,105, and maximum = 320,000.
+
+a. Would you expect this distribution to be symmetric, skewed to the right, or skewed to the left? Explain.
+b. Use the 1.5 * IQR criterion to determine whether any potential outliers are present.
+-----------
+
+a. This distribution is likely to be right-skewed (positively skewed) based on several compelling pieces of evidence. 
+First, the maximum value of 320,000 kilobytes is extraordinarily large compared to the third quartile of 1,105 kilobytes, creating an extreme tail 
+extending toward the higher values (the right side of the distribution). 
+
+Second, examining the quartile spacing reveals asymmetry: the distance from Q1 to the median (530 - 256 = 274) is much smaller than the distance 
+from the median to Q3 (1,105 - 530 = 575). This indicates that storage usage values are compressed in the lower range and more spread out in the upper range, 
+which is the hallmark of right skewness. 
+
+The pattern makes intuitive sense for computer storage usage - most students use modest amounts of storage for typical coursework, but a few users 
+(perhaps those working with large datasets, multimedia projects, or extensive programming files) require dramatically more space, creating the characteristic long right tail.
+
+b. Using the 1.5 × IQR criterion to identify outliers: IQR = Q3 - Q1 = 1,105 - 256 = 849 kilobytes
+Outlier boundaries:
+
+Lower fence: Q1 - 1.5(IQR) = 256 - 1.5(849) = -1,017.5 (effectively 0 since storage can't be negative)
+Upper fence: Q3 + 1.5(IQR) = 1,105 + 1.5(849) = 2,378.5 kilobytes
+
+Conclusion: The maximum value of 320,000 kilobytes far exceeds the upper fence of 2,378.5 kilobytes, making it a clear outlier. 
+This extreme value is more than 134 times larger than the upper fence, representing students with exceptionally high storage usage that's fundamentally 
+different from typical user patterns. The minimum value of 4 kilobytes falls well within the normal range, so no outliers exist on the lower end.
