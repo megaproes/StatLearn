@@ -1,0 +1,21 @@
+2.80 Marathon results 
+
+The results for the first 20 finishers of the Women’s Marathon in the World Athletics Championships in Beijing in 2015 appears to have a
+roughly bell-shaped distribution with a mean of 9073 seconds and a standard deviation of 161.4 seconds.
+
+Among the first 20 runners to finish the race, the finishing time of the last finalist was 9377 seconds. Is this an unusual result? 
+Answer by providing statistical justification. (Source: https://www.iaaf.org/.)
+----------
+
+For a bell-shaped distribution, we use z-scores to determine how unusual a result is:
+z = (9377 - 9073) / 161.4 = 304 / 161.4 = 1.88
+
+With a z-score of 1.88, the last finalist's time is not considered unusual. 
+Here's the statistical justification:
+
+Standard Rule: In bell-shaped distributions, values within ±2 standard deviations of the mean are considered typical or normal, 
+while values beyond ±2 standard deviations are considered unusual.
+
+Context: The z-score of 1.88 falls well within the ±2 range, indicating this finishing time is within the expected variation for elite marathon runners.
+
+In a bell-shaped distribution, we expect about 95% of values to fall within ±2 standard deviations, so a z-score of 1.88 represents typical competitive variation.

@@ -1,0 +1,20 @@
+2.79 Height of buildings 
+For the 50 tallest buildings in Washington D.C., the mean was 195.57 ft., and the standard deviation was 106.32 ft. 
+The tallest building in this sample had a height of 761 ft (www.skyscrapercenter.com).
+
+a. Find the z-score for the height of 761 ft.
+b. What does the positive sign for the z-score represent?
+c. Is this observation a potential outlier according to the 3 standard deviation distance criteria? Explain.
+----------------
+
+a. z-score for the 761 ft building:
+z = (761 - 195.57) / 106.32 = 565.43 / 106.32 = 5.32
+
+b. The positive sign indicates that this building's height is above the mean. Specifically, it tells us the building is taller than the average height 
+of the 50 tallest buildings in Washington D.C. Positive z-scores always indicate values above the mean, while negative z-scores indicate values below the mean.
+
+c. Yes, this is definitely a potential outlier according to the 3 standard deviation criterion. 
+
+With a z-score of 5.32, this building falls 5.32 standard deviations above the mean, which far exceeds the threshold of 3 standard deviations. 
+This suggests the building is extraordinarily tall compared to the rest of the sample - even among the 50 tallest buildings in D.C., 
+this one stands out as exceptionally high.

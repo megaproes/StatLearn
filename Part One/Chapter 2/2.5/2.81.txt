@@ -1,0 +1,22 @@
+2.81 Big Data: Airbnb prices in New York City 
+
+The data file NYCAirbnb on the book’s website and available in the Explore Quantitative Data app lists the daily prices of
+28,489 rooms for rent on the website Airbnb.com for New York City. 
+
+Use the app (or other software) to look at the summary statistics, histogram, and box plot and write a paragraph describing the distribution. 
+(You can download the histogram or box plot from the app as .png files by pressing the camera symbol in the upper right-hand corner when you hover over the plot.)
+--------------
+
+The distribution is clearly right skewed, meaning most of data cluster towards lower values. 
+This confirms lots of outrliers towards higher values as well as the median being closer to Q1 that to Q3.
+-------------
+
+Central Tendency: The mean ($139.50) is notably higher than the median ($100.00), which is a classic indicator of right skewness. 
+This 40% difference suggests that high-priced outliers are pulling the mean upward while the median remains anchored closer to the typical experience.
+
+Variability and Range: With a standard deviation of $113.80 and an IQR of $105.00, there's considerable price variation. 
+The dramatic range from $10 to $1,000 further emphasizes the presence of both budget and ultra-luxury options, though the vast majority cluster in the lower price ranges.
+
+Shape Characteristics: The histogram shows the classic right-skewed pattern with a sharp peak in the $0-$100 range (containing over 15,000 of the 28,489 rooms) 
+and a long tail extending toward higher prices. 
+The box plot reinforces this pattern, with the median positioned much closer to Q1 ($70) than to Q3 ($175), and extensive outliers stretching across the upper price ranges.

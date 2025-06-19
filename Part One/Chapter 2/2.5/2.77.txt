@@ -1,0 +1,35 @@
+2.77 European Union youth unemployment rates 
+The 2013 unemployment rates of countries in the European Union app range from 4.9 to 27.3, with
+Q1 = 7.2, median = 10.1, Q3 = 13.1, a mean of 11.1, and a standard deviation of 5.6.
+
+a. In a box plot, what would be the values at the outer edges of the box, and what would be the values to which the whiskers extend? (To check your answers,
+use the Explore Quantitative Data app.)
+
+b. Which two countries will show up as outliers in the box plot? Why?
+
+c. Greece had the highest unemployment rate of 27.3. Is it an outlier according to the 3 standard deviation criterion? Explain.
+
+d. What unemployment value for a country would have a z-score equal to 0?
+----------------
+
+a. In the box plot:
+
+Outer edges of the box: Q1 = 7.2% and Q3 = 13.1% (these form the left and right sides of the rectangular box)
+Whisker extensions:
+
+Left whisker extends to 4.9% (Austria - the minimum value, which is not an outlier)
+Right whisker extends to 17.2% (Croatia - the highest non-outlier value within the upper fence of 21.95%)
+
+b. Spain (26.4%) and Greece (27.3%) will show up as outliers because both exceed the upper fence of 21.95%. Using the 1.5 × IQR criterion:
+IQR = 13.1 - 7.2 = 5.9
+Upper boundary = 13.1 + 1.5(5.9) = 21.95%
+Both Spain and Greece far exceed this threshold, making them clear outliers
+
+c. Using the 3 standard deviation criterion for Greece:
+z = (27.3 - 11.1) / 5.6 = 16.2 / 5.6 = 2.89 standard deviations
+Greece is not an outlier according to the 3 standard deviation criterion, since 2.89 < 3.0. 
+
+While Greece's unemployment rate is extremely high and stands out as unusual, it falls just short of the very strict 3-standard-deviation threshold. 
+This demonstrates that different outlier criteria can give different results - Greece is an outlier by the 1.5 × IQR rule but not by the 3-standard-deviation rule.
+
+d. A country with a z-score of 0 would have an unemployment rate exactly equal to the mean of 11.1%. The z-score formula is z = (value - mean) / standard deviation, so when z = 0, the value must equal the mean. This represents the "typical" or average unemployment rate among EU countries in 2013.

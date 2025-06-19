@@ -1,0 +1,35 @@
+2.82 Airbnb prices by type of room 
+
+Refer to the previous exercise. When broken down by type of rental room (shared room, private room, entire apartment), the box plots for
+each type of room are shown below. 
+
+a. The median price for which type of room is the largest?
+b. The variability in the prices is the largest for which type of room?
+c. Is the distribution for the price of rooms for the rental type “shared room” left- or right-skewed or symmetric?
+d. Write a short paragraph comparing the distribution of price across the three rental types. Go to the Explore
+Quantitative Data app if you need specific values, such as medians, for your descriptions.
+----------
+
+a. Entire Apartment has the largest median price at $169, which makes economic sense since guests are renting an entire living space rather than sharing accommodations.
+
+b. Entire Apartment shows the greatest variability with a standard deviation of $128.4, reflecting the wide range from basic studio apartments 
+to luxury penthouses in premium Manhattan locations.
+
+c. Shared Room prices are right-skewed. Evidence includes: the mean ($63.3) exceeding the median ($50.0), and from the histogram, we can see the distribution 
+peaks early and has a long tail extending toward higher prices.
+d. 
+Pricing Hierarchy: The three rental types show a clear pricing hierarchy that reflects the level of privacy and space offered. Shared rooms (median $50) represent 
+the most budget-friendly option, private rooms (median $75) offer moderate pricing with personal space, while entire apartments (median $169) command premium prices 
+for complete privacy and independence.
+
+Consistent Right Skewness: All three rental types exhibit right-skewed distributions, with means consistently exceeding medians: shared rooms ($63.3 vs $50.0), 
+private rooms ($84.6 vs $75.0), and entire apartments ($201.6 vs $169.0). This pattern indicates that while most listings in each category cluster around 
+affordable price points, luxury options create extended upper tails in all segments.
+
+Variability Patterns: Entire apartments show the greatest price variability (std = $128.4), reflecting the diversity from basic studios to luxury accommodations. 
+Interestingly, shared and private rooms have similar standard deviations ($57.5 and $54.7 respectively), but their IQRs differ significantly (40 vs 44), suggesting 
+different outlier patterns. Despite the $1,000 maximum appearing across all categories, the typical price ranges (Q1 to Q3) are quite distinct: $35-$75 for shared rooms, 
+$55-$99 for private rooms, and $125-$239 for entire apartments.
+
+Market Insight: This analysis reveals that NYC's Airbnb market successfully segments travelers by budget and privacy preferences, 
+with each category offering both accessible and luxury options while maintaining distinct price positioning.

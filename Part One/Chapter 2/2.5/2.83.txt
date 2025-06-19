@@ -1,0 +1,31 @@
+2.83 CO2 comparison 
+
+The vertical side-by-side box plots on the next page compare per capita carbon dioxide emissions in 2011 for many Central and South American and European
+nations. (Data available on the book’s website or in the Explore Quantitative Data app, where you can reconstruct
+the side-by-side box plot and hover over the boxes to read off the summary statistics. Source: www.eia.gov, U.S. Energy Information Administration)
+
+a. Give the approximate value of carbon dioxide emissions for the outliers shown. (There are actually two outliers.)
+b. What shape would you predict for the distribution in Central and South America? Why?
+c. Summarize how the carbon dioxide emissions compare between the two regions.
+----------------
+
+a. The outlier appears to be approximately 11.6-11.7 metric tons of CO₂ emissions per capita. Looking at the box plot, there's one clear outlier 
+in the Central & South America group.
+
+b. Distribution Shape Predictions:
+Central & South America: I would predict a right-skewed distribution because the mean (3.63) exceeds the median (2.54), and the median is positioned closer to Q1 (1.59) than to Q3 (4.84). This suggests most countries in this region have relatively low CO₂ emissions, with a few countries producing notably higher emissions.
+Europe: I would predict a slightly left-skewed distribution because the mean (7.00) is below the median (7.39), and the median is positioned closer to Q3 (8.48) than to Q1 (5.03). This indicates that most European countries cluster around higher emission levels, with some countries having notably lower emissions.
+
+c. Regional Comparison:
+Central Tendency: Europe produces substantially higher per capita CO₂ emissions than Central & South America, with medians of 7.39 vs 2.54 metric tons 
+respectively - nearly three times higher. This difference likely reflects Europe's more industrialized economies and higher energy consumption patterns.
+
+Variability: Both regions show similar levels of variability, with standard deviations of 2.56 (C&S America) and 2.56 (Europe), and comparable IQRs of 3.25 vs 3.45. 
+This suggests that within each region, there's substantial variation in emission levels among countries.
+
+Distribution Patterns: The regions show contrasting skewness patterns that reflect their different emission profiles. 
+Central & South America's right skewness indicates most countries are low emitters with some moderate-to-high emitters, while Europe's slight left skewness suggests 
+most countries are moderate-to-high emitters with some lower-emission nations.
+
+Outliers: The presence of an outlier in the Central & South American data (around 11.6 metric tons) indicates at least one country in this region has emission levels 
+comparable to typical European countries, possibly due to oil production or heavy industry.

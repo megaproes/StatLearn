@@ -1,0 +1,26 @@
+2.78 Air pollution 
+
+Example 17 discussed EU carbon dioxide emissions, which had a mean of 7.9 and standard deviation of 3.6.
+a. Finland’s observation was 11.5. Find its z-score and interpret.
+b. Sweden’s observation was 5.6. Find its z-score, and interpret.
+c. The UK’s observation was 7.9. Find the z-score and interpret.
+----------
+
+a. Finland's z-score:
+z = (11.5 - 7.9) / 3.6 = 3.6 / 3.6 = 1.00
+
+Interpretation: Finland's CO₂ emissions are exactly 1 standard deviation above the mean. 
+This indicates that Finland has higher-than-average emissions compared to other EU countries, but not extremely so - about 16% of countries 
+would be expected to have emissions this high or higher in a normal distribution.
+
+b. Sweden's z-score:
+z = (5.6 - 7.9) / 3.6 = -2.3 / 3.6 = -0.64
+
+Interpretation: Sweden's CO₂ emissions are 0.64 standard deviations below the mean. This indicates that Sweden has lower-than-average emissions, 
+performing better than most EU countries in terms of carbon dioxide output. The negative sign confirms it's below average.
+
+c. UK's z-score:
+z = (7.9 - 7.9) / 3.6 = 0 / 3.6 = 0
+
+Interpretation: The UK's CO₂ emissions are exactly at the mean level. This means the UK represents the "typical" or average EU country in terms of 
+carbon dioxide emissions - neither particularly high nor low compared to other member nations.

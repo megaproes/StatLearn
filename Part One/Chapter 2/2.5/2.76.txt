@@ -12,4 +12,23 @@ c. The United States was not included in the data, but its per capita consumptio
 United States is how many standard deviations from the mean?
 ---------------
 
-a. 
+a. Reading from the box plot, the approximate five-number summary is:
+
+Minimum: ~50 million BTU
+Q1: ~140 million BTU
+Median (Q2): ~150 million BTU
+Q3: ~240 million BTU
+Maximum: ~400 million BTU (end of whisker, not including the outlier)
+
+b. To find how many standard deviations Italy's consumption was from the mean:
+z = (Italy's consumption - mean) / standard deviation
+z = (139 - 195) / 120 = -56 / 120 = -0.47 standard deviations
+Italy's per capita energy consumption was 0.47 standard deviations below the mean, indicating below-average energy use compared to other OECD countries.
+
+c. For the United States:
+z = (US consumption - mean) / standard deviation
+z = (334 - 195) / 120 = 139 / 120 = 1.16 standard deviations
+
+The United States' per capita energy consumption was 1.16 standard deviations above the mean. 
+
+This indicates that US energy consumption  is notably higher than the typical OECD country, though not as extreme as Iceland's consumption.
