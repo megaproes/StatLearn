@@ -1,0 +1,20 @@
+2.87 Dealer markup for cars 
+
+The lot of a car dealership contains cars with an average invoice price (that’s the price the dealer paid the manufacturer) 
+of $45,000, with a standard deviation of $10,000. 
+
+The median invoice price was $40,000. To protect its profits, the dealership decides to set the sales price 20% higher than the invoice price for each of its cars.
+a. What is the mean of the sales prices for the cars on the lot?
+b. What is the median of the sales prices for the cars on the lot?
+c. What is the standard deviation of the sales prices for the cars on the lot?
+----------
+
+Using the transformation y = 1.2x (sales price is 20% higher than invoice price):
+a. Mean = 1.2 * $45,000 = $54,000
+
+b. Median = 1.2 * $40,000 = $48,000
+
+c. Standard deviation = 1.2 * $10,000 = $12,000
+----
+When multiplying all data values by a constant (1.2 in this case), all measures of central tendency (mean, median) and variability (standard deviation) 
+are multiplied by that same constant, while the shape of the distribution remains unchanged.

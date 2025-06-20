@@ -1,0 +1,16 @@
+2.86 Surface temperatures in Antarctica 
+
+The average annual surface temperatures in Antarctica for the period from 1936 to 2020 had a mean of -57 degrees Celsius, with a
+standard deviation of 3.8 degrees Celsius. 
+
+If the average annual temperatures are converted to degrees Fahrenheit, using the linear transformation (9/5)(C+160/9), what are
+the mean and the standard deviation of the Fahrenheit values?
+-------------
+
+Using the transformation y = (9/5)(C + 160/9), which simplifies to F = (9/5)C + 32:
+
+Mean = (9/5) * (-57) + 32 = -102.6 + 32 = -70.6°F.
+Standard deviation = (9/5) * 3.8 = 6.84°F.
+
+When applying the linear transformation F = a + bC (where a = 32 and b = 9/5), the mean is transformed to a + b * (original mean), 
+while the standard deviation is multiplied by the absolute value of b.

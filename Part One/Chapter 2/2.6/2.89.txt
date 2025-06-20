@@ -1,0 +1,33 @@
+2.89 Rotten Tomatoes reviews 
+
+The website Rotten Tomatoes publishes both an aggregate professional critic’s score and an audience score (computed from users of their website)
+for movies. For six movies released in 2015, the following scores were reported..
+
+Based on both critics and user’s score, which movie among those six would you rank as the most highly rated? Explain. 
+(You can find z-scores for each column by entering the scores in the Explore Quantitative Data app and checking the box for Linear Transformation.)
+-------------
+
+After calculating z-scores we have the following table:
+                              Film Critics_Score Users_Score Z_Critics Z_Users
+1               The Imitation Game          90.0        92.0      0.12    1.25		0.685
+2                          Ant-Man          80.0        90.0     -0.88    0.42
+3 Mission: Impossible–Rogue Nation          92.0        90.0      0.32    0.42
+4                       Inside Out          98.0        90.0      0.92    0.42       0.67
+5          Avengers: Age of Ultron          74.0        86.0     -1.48   -1.25
+6                            Selma          99.0        86.0      1.02   -1.25
+7                             Mean          88.8        89.0        NA      NA
+8               Standard Deviation          10.0         2.4        NA      NA
+------------
+
+Based on the z-score analysis, The Imitation Game would rank as the most highly rated movie overall.
+
+The Imitation Game has the highest average z-score ((0.12 + 1.25)/2 = 0.685) and is the only movie that performs exceptionally well 
+with users (z = 1.25, meaning it's 1.25 standard deviations above the typical user rating). 
+
+While Inside Out has a higher critics' z-score (0.92), it performs only averagely with users (z = 0.42). 
+
+Even though Inside Out has higher raw scores ((98.0 + 90.0) / 2 = 94 vs (90 + 92)/2 = 91 for Imitation Game), the standardized scores reveal the 
+true relative performance by accounting for the different rating patterns between critics and users. 
+
+The z-scores show that The Imitation Game achieved a more balanced excellence across both groups, making it genuinely more impressive when we 
+consider how each group typically rates movies.

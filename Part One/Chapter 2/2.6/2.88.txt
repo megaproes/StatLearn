@@ -1,0 +1,23 @@
+2.88 Taxes and fees at Quickr 
+
+Prices for a sample of used dishwashers on the website www.quickr.com have a mean of $24,200 and standard deviation of $2,860.
+
+a. Prices quoted on www.quickr.com are without Goods and Service Tax (GST). To account for this, a GST of 28% is applied to the prices 
+of all dishwashers in the sample. How are the mean and standard deviation of the prices affected?
+
+b. In addition to the GST, Quickr adds a $599 processing fee when a dishwasher is sold through its webpage.
+How are the mean and standard deviation of prices affected when both GST and fee are taken into account?
+--------
+
+a. With 28% GST applied: Using transformation y = 1.28x:
+
+Mean = 1.28 × $24,200 = $30,976
+std  = 1.28 × $2,860  = $3,660.80
+
+b. With both 28% GST and $599 processing fee: Using transformation y = 1.28x + 599:
+
+Mean = 1.28 * $24,200 + $599 = $30,976 + $599 = $31,575
+std  = 1.28 * $2,860 = $3,660.80
+
+The processing fee increases the mean by $599 but does not affect the standard deviation, since adding a constant to all values shifts 
+the distribution but doesn't change its spread.

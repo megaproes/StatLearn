@@ -1,0 +1,18 @@
+2.84 Purchasing apps 
+
+A survey of a group of teenagers found that the average amount of money they spent on purchasing smartphone apps equals $0.85 each month, with a
+standard deviation of $0.32.
+
+a. If you convert the observations to cents, what would be their mean and standard deviation?
+
+b. When reporting these statistics to a European audience, you want to report the mean and standard deviation in euros. 
+Using the exchange rate USD 1 = EUR 0.9, what are the mean and standard deviation of these observations in euros?
+-------------
+
+a. Converting to cents using the transformation y = 100x:
+Mean = 0.85 × 100 = 85 cents
+Standard deviation = 0.32 × 100 = 32 cents
+
+b. Converting to euros using the transformation y = 0.9x:
+Mean = 0.85 × 0.9 = €0.765
+Std  = 0.32 × 0.9 = €0.288
