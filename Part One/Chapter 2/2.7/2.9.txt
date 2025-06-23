@@ -1,0 +1,20 @@
+2.90 Cell phone bill 
+
+The cell phone bills of seven members of a family for the previous month were $89, $92, $92, $93, $95, $81, $196.
+a. For the seven cell phone bills, report the mean and median.
+b. Why is it misleading for a family member to boast to his or her friends that the average cell phone bill for his or her family was more than $105?
+----------------
+
+a. 
+Median = $93 (middle value when arranged in order)
+Mean = $738 ÷ 7 = $105.43
+
+b. It's misleading to boast about an average of "more than $105" because this mean is heavily influenced by one extreme outlier ($196). 
+
+Six of the seven family members (86%) actually have bills between $81-$95, with a median of only $93.
+
+The single high bill of $196 pulls the mean upward, making it unrepresentative of the typical family member's spending. 
+
+The median of $93 better represents what most family members actually pay, showing that the "average" gives a distorted picture of the family's typical cell phone expenses. 
+
+When distributions are right-skewed due to outliers, the median provides a more accurate measure of central tendency than the mean.

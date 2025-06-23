@@ -1,0 +1,18 @@
+2.93 Solar panels and electricity wastage 
+
+In 2021, a society tabloid reported results of a survey of residents in a residential society. One question asked was, “Do you think installing solar panels had made residents waste electricity or not?” 
+
+The figure shows how the tabloid reported the results for the respondents (2% of the residents did not respond).
+a. Explain what’s wrong with the way this bar chart was constructed.
+b. Explain why you would not see this error made with a pie chart.
+------------
+
+a. The primary issue is that the bar heights don't correspond to the percentages shown. The "Yes, wastage has increased" bar (68%) appears much taller than it should be relative to the "No, wastage has not increased" bar (30%). 
+
+In a properly constructed bar chart, the 68% bar should be about 2.3 times taller than the 30% bar, but they appear to have roughly a 4:1 or 5:1 height ratio.
+Additionally, the percentages only add up to 98% (68% + 30%), which makes sense since 2% didn't respond, but this should be noted or shown as a third category for completeness.
+
+b. Pie charts prevent this error because they are constrained by geometry - the slices must add up to exactly 360 degrees (100% of the circle). 
+
+This physical constraint forces the visual proportions to accurately represent the data proportions. You cannot make a slice larger or smaller without affecting the other slices, so the relative sizes are automatically correct. 
+Bar charts, however, rely on the designer to correctly scale the bar heights, leaving room for manipulation or error.

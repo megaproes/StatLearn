@@ -1,0 +1,19 @@
+2.91 Support for dairy farmers 
+
+The pie chart shown was displayed in an article in The Westmorland Gazette (August 28, 2015) to show who are willing to pay more for
+milk to help dairy farmers.
+
+a. Pie charts can be tricky to draw correctly. Identify two problems with this chart.
+b. From looking at the graph without inspecting the percentages, would it be easier to identify the mode using this graph or a bar graph? Why?
+----------
+
+a. Problems with this pie chart:
+1. Algebraic Mistake: The percentages (13 + 86) do not add up to 100.
+2. Incorrect proportional representation: The "Yes" slice (86%) should be much larger than the "No" slice (14%), but they appear roughly equal in size. 
+In a properly drawn pie chart, the "Yes" slice should occupy about 86% of the circle (roughly 310 degrees), while the "No" slice should only occupy about 14% (roughly 50 degrees).
+
+b. Mode identification:
+A bar graph would be easier for identifying the mode without inspecting percentages. In a correctly drawn bar graph, the height differences would immediately show which category is most frequent. 
+
+With this incorrectly drawn pie chart, you cannot visually determine which category is the mode because the slice sizes don't reflect the actual proportions. 
+However, if the pie chart were drawn correctly, both graph types would make the mode equally apparent through visual comparison of areas (pie chart) or heights (bar graph).

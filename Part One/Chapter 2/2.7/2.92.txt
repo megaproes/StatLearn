@@ -1,0 +1,26 @@
+2.92 Enrollment trends 
+
+Examples 19 and 20 presented graphs showing the total student enrollment at a U.S. university between 2004 and 2012 and the data for STEM major
+enrollment during that same time period. The data are repeated here.
+------------
+
+a. Construct a graph for only STEM major enrollments over this period. Describe the trend in these enrollment counts. 
+b. Find the percentage of enrolled students each year who are STEM majors and construct a time plot of the percentages.
+c. Summarize what the graphs constructed in parts a and b tell you that you could not learn from Figures 2.19 and 2.20 in Examples 19 and 20.
+-------------
+
+a. STEM enrollment trend (raw counts):
+The trend shows a significant decline in STEM major enrollments from 2004 to 2007, dropping from approximately 2000 to about 1750 students. 
+From 2007 onwards, the enrollment stabilizes and shows some consolidation, with slight fluctuations but generally remaining in the 1750-1900 range through 2012.
+
+b. Looking at image, the percentage of students who are STEM majors shows a more dramatic decline than the raw counts suggest. 
+The percentage drops consistently from about 6.8% in 2004 to approximately 5.5% in 2012, with only brief periods of stabilization.
+
+c. 
+1. Relative vs. absolute decline: While raw STEM enrollment declined and then stabilized, the percentage of STEM majors continued declining throughout the period, indicating that STEM enrollment 
+grew slower than total university enrollment.
+
+2. Accurate visual representation: Unlike Figure 2.19's misleading human figures that distorted proportions, these properly scaled line graphs allow for accurate trend analysis.
+
+3. Context matters: The percentage graph (part b) shows that STEM's share of total enrollment consistently decreased, suggesting the university's growth was primarily in non-STEM fields, 
+which wouldn't be obvious from looking at raw STEM numbers alone.
