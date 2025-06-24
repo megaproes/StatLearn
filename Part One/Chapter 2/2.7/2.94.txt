@@ -3,3 +3,8 @@
 Explain what is wrong with the time plot shown of the annual license fee paid by British subjects for watching BBC programs. (Source: Evening Standard, November 29, 2006.)
 ---------
 
+The problem with the graph is that the vertical axis doesn’t start at zero. This makes the increase in the BBC license fee look much bigger than it really is. 
+
+By starting the graph at £80 instead of £0, the rise in fees looks more dramatic and can mislead people into thinking the cost is increasing faster than it actually is. 
+
+A fair graph should start the vertical axis at zero to show the true size of the changes.

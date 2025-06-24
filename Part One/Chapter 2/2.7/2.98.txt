@@ -1,0 +1,22 @@
+2.98 Dog characteristics 
+
+The following graph shows the weight (in kg) and neck size (in cm) of dogs who are registered with the U.K. Kennel Club.
+
+a. At first glance, the weight and neck size of the dogs seem to be correlated. Explain.
+
+b. The article wanted to stress that “decrease in weight of dogs corresponds with the decrease in neck size of these dogs”. To portray this, the graph uses two different scales
+on the left and right y-axis in the same plot (The labels for the curves alert you to this fact). 
+
+However, the difference in scales is easy to overlook. Describe an alternative way to display these data.
+---------------
+
+a.
+At first glance, weight and neck size seem strongly correlated because the lines follow a very similar shape and move downward together. 
+However, this visual similarity is misleading because the graph uses two separate y-axes with different scales. 
+The narrowing of each axis exaggerates the similarity, making the trends appear more closely aligned than they may actually be.
+
+b.
+To avoid this misleading impression, a better approach would be to standardize both variables (e.g., using z-scores) so they can be shown on the same scale. 
+This would allow for a fair visual comparison of trends without relying on separate axes. 
+
+Alternatively, using two separate graphs—one for weight and one for neck size—would also prevent confusion and make the data easier to interpret accurately.

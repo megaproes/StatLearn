@@ -1,0 +1,15 @@
+2.97 Admission fee hike 
+
+The following graph (created based on how it was displayed by a major news channel) shows how the admission fees of top universities in the United Kingdom
+would change from £800 to £900, when the next session starts in January 2020. 
+
+Judging from the height of the bars, it appears that on January 1, 2020, the admission fee will be almost three times higher than before, when in fact it only goes up by £100 from £800. 
+
+How could this misleading graph be improved to better reflect the situation?
+------------------
+
+This graph is misleading because the vertical axis starts at £750 instead of £0, which exaggerates the difference between the two bars. 
+As a result, the £900 bar appears almost three times taller than the £800 bar, even though the actual increase is only £100, or 12.5%.
+
+To improve the graph and make it more honest, the y-axis should start at £0, so the bar heights accurately reflect the true size of the increase. 
+This change would show that the rise in fees is relatively small, not dramatic.

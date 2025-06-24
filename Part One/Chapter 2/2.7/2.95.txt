@@ -1,0 +1,9 @@
+2.95 Federal government spending 
+
+Explain what is wrong with the following pie chart, which depicts the federal government breakdown by category for 2010.
+-------
+
+The main issue with this pie chart is incorrect proportional representation. In a pie chart, the size of each slice should match its percentage of the total. 
+
+However, in this chart, some slices appear much larger or smaller than they should be based on the numbers. For example, the "Other" category (18%) looks smaller than "Unemployment and Welfare" (16%), 
+and "Defense" (19%) appears almost the same size as "Medicare" (13%), even though they should be visually different. This makes the chart misleading and hard to interpret accurately.
