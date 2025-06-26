@@ -1,0 +1,29 @@
+2.99 Categorical or quantitative? 
+
+Identify each of the following variables as categorical or quantitative.
+a. Number of children in family
+b. Amount of time in football game before first points scored
+c. College major (English, history, chemistry, . . .)
+d. Type of music (rock, jazz, classical, folk, other)
+------
+a. quantitative (discrete)
+b. quantitative (continuous)
+c. categorical (nominal)
+d. categorical (nominal)
+------
+2.100 Continuous or discrete? 
+
+Which of the following variables are continuous, when the measurements are as precise as possible?
+a. Age of mother
+b. Number of children in a family
+c. Cooking time for preparing dinner
+d. Latitude and longitude of a city
+e. Population size of a city
+-----------
+a. Age of mother – Continuous
+b. Number of children in a family – Discrete
+c. Cooking time for preparing dinner – Continuous
+d. Latitude and longitude of a city – Continuous
+e. Population size of a city – Discrete
+
+So continuous variables are a, c and d.

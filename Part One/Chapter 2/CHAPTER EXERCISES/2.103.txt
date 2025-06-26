@@ -1,0 +1,25 @@
+2.103 Chad voting problems 
+
+The 2000 U.S. presidential election had various problems in Florida. One was overvotes—people mistakenly voting for more than one presidential candidate. 
+(There were multiple minor-party candidates.) There were 110,000 overvote ballots, with Al Gore marked on 84,197 and George W. Bush on 37,731. These ballots were disqualified. 
+
+Was overvoting related to the design of the ballot? The figure shows MINITAB dot plots of the overvote percentages for 65 Florida counties organized by the type of voting machine—optical
+scanning, Votomatic (voters manually punch out chads), and Datavote (voter presses a lever that punches out the
+chad mechanically)—and the number of columns on the ballot (1 or 2).
+
+a. The overvote was highest (11.6%) in Gadsden County. Identify the number of columns and the method of registering the vote for that county.
+b. Of the six ballot type and method combinations, which two seemed to perform best in terms of having relatively low percentages of overvotes?
+c. How might these data be summarized further by a bar graph with six bars?
+----------
+
+a. Looking at the rightmost dot at 11.6%, this appears to be in the Votomatic_2 row.
+
+b.  One column with either optical scanning or votomatic. 
+
+c. Create a bar graph with 6 bars, one for each combination:
+
+1. Optical_1, Optical_2
+2. Votomatic_1, Votomatic_2
+3. Datavote_1, Datavote_2
+
+Each bar's height would show the average overvote percentage for counties using that specific ballot/machine combination, making it easier to compare performance across all six scenarios.

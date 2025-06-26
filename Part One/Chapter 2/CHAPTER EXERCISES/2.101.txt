@@ -1,0 +1,47 @@
+2.101. Young noncitizens in the United States 
+
+The table shows the number of 18- to 24-year-old noncitizens living in the United States between 2010 and 2012.
+
+(Noncitizens aged 18 to 24 in the United States)
+Region of Birth 					Number (in Thousands)
+Africa 							115
+Asia   							590
+Europe 							148
+Latin America & Caribbean 			1,666
+Other 							49
+Total 							2,568
+---------
+a. Is Region of Birth quantitative or categorical? Show how to summarize results by adding a column of percentages to the table.
+b. Which of the following is a sensible numerical summary for these data: Mode (or modal category), mean, median? Explain, and report whichever is/are sensible.
+c. How would you order the Region of Birth categories for a Pareto chart? What’s its advantage over the ordinary bar graph?
+----------
+
+a. Region of Birth is a categorical variable because it describes group membership, not a numeric value.
+To summarize the data, we can add a percentage column** by dividing each region’s number by the total (2,568) and multiplying by 100. For example:
+
+| Region of Birth           | Number (in Thousands) | Percentage (%)              |
+| ------------------------- | --------------------- | --------------------------- |
+| Africa                    | 115                   | (115 / 2,568) × 100 ≈ 4.48% |
+| Asia                      | 590                   | ≈ 22.97%                    |
+| Europe                    | 148                   | ≈ 5.76%                     |
+| Latin America & Caribbean | 1,666                 | ≈ 64.89%                    |
+| Other                     | 49                    | ≈ 1.91%                     |
+| Total                     | 2,568                 | 100%                        |
+
+---
+
+b. For categorical data, the most appropriate numerical summary is the mode (or modal category), because it tells us which category is most frequent.
+Here, the mode is Latin America & Caribbean, which has the highest number of young noncitizens.
+Mean and median are not meaningful for categorical variables.
+---
+
+c. To make a Pareto chart, we will need to sort the regions in descending order by frequency:
+
+1. Latin America & Caribbean (1,666)
+2. Asia (590)
+3. Europe (148)
+4. Africa (115)
+5. Other (49)
+
+A Pareto chart is a bar graph where categories are ordered from most to least frequent. 
+The advantage is that it makes it easy to see which categories contribute the most to the total and helps focus attention on the most significant contributors.

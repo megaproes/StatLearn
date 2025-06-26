@@ -1,0 +1,23 @@
+2.102 Cool in China 
+
+A recent survey asked 1,200 university students in China to pick the personality trait that most defines a person as “cool.” 
+
+The possible responses allowed, and the percentage making each, were individualistic and innovative (47%), stylish (13.5%), dynamic and capable (9.5%), easygoing and relaxed (7.5%), other (22.5%).
+a. Identify the variable being measured.
+b. Classify the variable as categorical or quantitative.
+c. Which of the following methods could you use to describe these data: 
+(i) bar chart, (ii) dot plot, (iii) box plot, (iv) median, (v) mean, (vi) mode (or modal cate-gory), (vii) IQR, (viii) standard deviation?
+---------
+
+a. The variable being measured is “the personality trait that best defines a person as ‘cool,’” as perceived by university students. 
+
+The possible categories are:
+    Individualistic and innovative
+    Stylish
+    Dynamic and capable
+    Easygoing and relaxed
+    Other
+
+b. This variable is categorical because the responses fall into distinct, named categories that describe qualities or traits, rather than numerical values.
+
+c. (i) bar chart, (vi) mode (or modal category)	
