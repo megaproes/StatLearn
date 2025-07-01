@@ -1,0 +1,13 @@
+2.111 Sketch plots 
+
+For each of the following, sketch roughly what you expect a histogram to look like and explain whether the mean or the median would be greater.
+a. The selling price of new homes in a city.
+b. The number of children ever born per woman age 40 or over.
+c. The score on an easy exam (mean = 88, standard deviation = 10, maximum = 100, minimum = 50)
+d. Number of months in which subject drove a car last year
+-----------
+
+a. Right-skewed - Mean > Median (expensive outliers pull the mean upward)
+b. Right-skewed - Most women have 0-3 children, few have many children. Mean > Median.
+c. Left-skewed - Mean < Median (low outliers pull the mean downward)
+d. U-shaped or bimodal - Two peaks at 0 months (non-drivers) and 12 months (regular drivers)

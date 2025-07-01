@@ -1,0 +1,17 @@
+2.110 What shape do you expect? 
+
+For the following variables, indicate whether you would expect its histogram to be bell shaped, skewed to the right, or skewed to the left. Explain why.
+
+a. Number of times arrested in past year
+b. Time needed to complete difficult exam (maximum time is 1 hour)
+c. Assessed value of house
+d. Age at death
+-------------
+
+a. Right-skewed - most people (the vast majority) have 0 arrests, with decreasing frequencies for 1, 2, 3+ arrests.
+
+b. Left-skewed - few students finish very quickly, most take close to the full hour, with the tail extending toward shorter completion times.
+
+c. Right-skewed - most houses have moderate values, with a long tail of expensive properties extending to the right.
+
+d. Left-skewed - most deaths occur at older ages (70s, 80s, 90s), with fewer deaths at younger ages creating a tail extending toward lower ages (left side).

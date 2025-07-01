@@ -1,0 +1,27 @@
+2.104 Losing Focus 
+
+A Pew Research survey of a random sample of teenagers asked how often they lose focus in class because of checking their cellphones. 
+Of the 743 teenagers interviewed, 291 said they never lose focus, 214 said they rarely lose focus, 178 responded that they sometimes lose focus, and 60 admitted that they often lost focus.
+
+a. Is losing focus a nominal or ordinal categorical variable?
+b. When constructing a bar graph, you can order the four answer categories 
+(i) alphabetically, 
+(ii) from never losing focus to often losing focus, 
+(iii) as in a Pareto chart, according to the frequency of each category? 
+
+Which do you prefer? Why?
+
+c. Using the Explore Categorical Data app or some other software or by sketching, construct the bar graph for these data.
+-------------------
+
+a. This is ordinal because we can assign each category a numerical degree ("never lose focus" as the highest and "often lost focus" as the lowest).
+
+b. I would choose Pareto chart because it shows the tendency and the distribution.
+
+c. 
+categories <- c("Never lose focus", "Rarely lose focus", "Sometimes lose focus", "Ofter lose focus")
+values <- c(291, 214, 178, 60)
+
+df <- data.frame(x = categories, y = values)
+
+barplot(height = df$y, names.arg = df$x, col = "skyblue", main = "Focus Levels", ylab = "Number of people")

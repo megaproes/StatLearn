@@ -1,0 +1,4 @@
+a. Bimodal
+b. Right skewed
+c. Left skewed
+d. Symmetric
