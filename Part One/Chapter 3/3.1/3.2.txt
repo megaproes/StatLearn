@@ -1,0 +1,16 @@
+3.2 Sales and advertising 
+
+Each month, the owner of Fay’s Tanning Salon records in a data file the monthly total sales receipts and the amount spent that month on advertising.
+
+a. Identify the two variables.
+b. For each variable, indicate whether it is quantitative or categorical.
+c. Identify the response variable and the explanatory variable.
+-----------------------
+
+a. The two variables are monthly total sales receipts and monthly amount spent on advertising.
+
+b. Both variables are quantitative - sales receipts and advertising costs are both measured in dollars.
+
+c. 
+Response variable: "Monthly total sales receipts"; Explanatory variable: "Monthly advertising spending." 
+We want to see if advertising spending influences sales.

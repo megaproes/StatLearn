@@ -1,0 +1,20 @@
+3.1 Which is the response/explanatory variable? 
+
+For the following pairs of variables, which more naturally is the response variable and which is the explanatory variable?
+a. Carat (=weight) and price of a diamond
+b. Dosage (low/medium/high) and severity of adverse event (mild/moderate/strong/serious) of a drug
+c. Top speed and construction type (wood or steel) of a roller coaster
+d. Type of college (private/public) and graduation rate
+-----------
+
+a. Response: Price of diamond; Explanatory: Carat (weight). 
+We expect diamond weight to influence price.
+
+b. Response: Severity of adverse event; Explanatory: Dosage. 
+Different dosage levels may cause different severities of side effects.
+
+c. Response: Top speed; Explanatory: Construction type. 
+The construction material affects what top speed the coaster can achieve.
+
+d. Response: Graduation rate; Explanatory: Type of college. 
+We want to see if the type of institution influences graduation success.

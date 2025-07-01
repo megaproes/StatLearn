@@ -1,0 +1,31 @@
+3.3 Does age limit vigorous activities? 
+
+Every Household, Income and Labour Dynamics in Australia Survey (HILDAS), includes the question, 
+“Does your age limit you now from doing vigorous activities, such as running, lifting heavy objects, participating in strenuous sports?”
+
+The table uses the 2021 survey results cross-tabulating limitation on activities with age groups, measured as response to the question.
+
+						Limitation on Activity
+Age Group     Significantly Limited   Somewhat Limited   Not Limited   Total
+30–40                     181                  139              496       816
+40–50                     196                  175              285       656
+50–60                     334                  264              139       737
+Total                     711                  578              920     2,209
+
+a. Identify the response variable and the explanatory variable.
+b. Find the conditional proportions of limitations for each age group. Interpret and summarize the association between these variables by comparing some of the conditional proportions across age groups.
+c. Overall, what proportion of people reported being significantly limited from participating in activities?
+-------------
+
+a. Response: "Limitation on Activity"; Explanatory: "Age Group". We try to estimate how different limitations compare between different age groups.
+
+b. 
+ 			Significantly Limited 		  Somewhat Limited 		Not Limited 		Total
+30-40                 0.222            			  0.170       		   0.608     		 1
+40-50                 0.299            			  0.267       		   0.434     		 1
+50-60                 0.453            			  0.358       		   0.189     		 1
+
+There's a strong association between age and activity limitations. As age increases, the proportion of people significantly limited increases dramatically 
+(from 22.2% in the 30-40 group to 45.3% in the 50-60 group), while those not limited decreases substantially (from 60.8% to 18.9%).
+
+c. Overall, 711/2,209 = 0.322 or 32.2% of people reported being significantly limited from participating in activities.
