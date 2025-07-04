@@ -1,0 +1,14 @@
+counts <- matrix(c(6105, 4119, 
+                   4218, 1388),
+                 nrow = 2, byrow= TRUE)
+
+rownames(counts) <- c("Owner", "Tenant")
+colnames(counts) <- c("Aware", "Unaware")
+
+counts_with_total <- cbind(counts, Total = rowSums(counts))
+
+proportions <- prop.table(counts, 1)
+
+proportions_with_total <- cbind(proportions, Total = rowSums(proportions), n = rowSums(counts))
+
+print(round(proportions_with_total, 3))

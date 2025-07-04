@@ -1,0 +1,38 @@
+3.4 Diamonds 
+
+The clarity and cut of a diamond are two of the four C’s of diamond grading. (The other two are color and carat.) For a sample of diamonds, the following table lists the clarity (rated as internally flaw-
+less, IF; very very slightly included, VVS; very slightly included, VS; slightly included, SI; and included, I) for the two lowest ratings for cut, which are “good” and “fair.”
+
+The data for this exercise are in the Diamonds file on the book’s website and preloaded in the Explore Categorical Data app, under the second tab titled Two Categorical Variables. 
+(The app provides a side-by-side bar chart and computes conditional and marginal proportions automatically.)
+
+             		 Clarity
+Cut        IF   VVS   VS   SI   I   Total
+Good       2     4    16   55   3     80
+Fair       1     3     8   30   2     44
+---------------
+
+a. Find the conditional proportions for the five categories of clarity, given cut.
+
+b. Sketch (or access and download via the app) a side-by-side (or stacked) bar graph that compares the two cuts on clarity. Summarize findings in a paragraph.
+
+c. Based on these data, is there evidence of an association between the cuts and clarity? Explain. (Hint: Are the conditional proportions very close across the two cuts?)
+-------------------
+
+a. 
+        I    IF   SI   VS   VVS Total
+Fair   0.05 0.02 0.68 0.18 0.07     1
+Good   0.04 0.03 0.69 0.20 0.05     1
+
+b. 
+The bar graph shows the distribution of diamond clarity grades across the two lowest cuts: Good and Fair. For both cuts, the most frequent clarity category is SI (Slightly Included), especially prominent in Good cut diamonds. 
+
+The Good cut diamonds also have more overall counts in every clarity level compared to Fair, indicating a larger sample. 
+
+While both cuts follow a similar pattern across clarity grades, the Good cut has a slightly more even distribution, whereas the Fair cut has a sharper drop after the SI category. 
+
+This suggests that diamonds rated Good tend to have slightly better clarity distribution than those rated Fair.
+
+c. There is no strong evidence of an association between cut and clarity.
+The conditional proportions of clarity are very similar across the two cuts, which suggests that the distribution of clarity does not vary meaningfully with cut.
+This implies cut and clarity are likely independent in this sample.

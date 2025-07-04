@@ -1,0 +1,18 @@
+3.6 Effectiveness of government in preventing terrorism 
+
+In a survey conducted in March 2013 by the National Consortium for the Study of Terrorism and Responses to Terrorism, 1515 adults were asked about the effectiveness
+of the government in preventing terrorism and whether they believe that it could eventually prevent all major terrorist attacks. 
+
+37.06% of the 510 adults who consider the government to be very effective believed that it can eventually prevent all major attacks, while this proportion was 28.36% among those who consider the government
+somewhat, not too, or not at all effective in preventing terrorism. The other people surveyed considered that terrorists will always find a way.
+
+a. Identify the response variable, the explanatory variable, and their categories.
+b. Construct a contingency table that shows the counts for the different combinations of categories.
+c. Use a contingency table to display the percentages for the categories of the response variables, separately for each category of the explanatory variable.
+d. Are the percentages reported in part c conditional? Explain.
+e. Sketch a graph that compares the responses for each category of the explanatory variable.
+f. Compute the difference and the ratio of proportions. Interpret.
+g. Give an example of how the results would show that there is no evidence of association between these variables.
+--------------
+
+a. 

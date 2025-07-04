@@ -1,0 +1,41 @@
+3.5 Hygiene awareness and ownership status 
+
+The Egyptian Health Department, in its Health and Hygiene Awareness Survey, surveyed residents in about 400 blocks. The survey asked residents questions about their hygiene habits. 
+Those who regularly dust their furniture were tagged as aware, and those who did not were tagged as unaware. 
+The following table shows results from the 2018 survey, cross-tabulating subjects’ ownership status by whether they are aware or not.
+
+                    Hygiene Awareness Status
+Ownership         Aware     Unaware     Total
+---------------------------------------------
+Owner             6105       4119       10224
+Tenant            4218       1388        5606
+---------------------------------------------
+Total            10323       5507       15830
+
+--------------
+
+a. Identify the response variable and the explanatory variable.
+
+b. Repeat the cell counts of subjects who were (i) aware owners and (ii) aware tenants.
+
+c. Can you compare the counts in part b to answer the question “Is there a difference between owners and tenants who are aware?” Explain.
+
+d. Construct a contingency table that shows the conditional proportions of sampled residents who are aware or otherwise, given ownership status. Interpret.
+
+e. Based on part d, does it seem that there is an association between ownership status and hygiene awareness? Explain by comparing the conditional proportions.
+------------------
+
+a. Response variable: Hygiene Awareness Status; Explanatory variable: Ownership. We want to see how hygiene awareness varies between owners and tenants.
+
+b. (i) 6,105; (ii) 4,218
+
+c. No, we cannot compare these raw counts directly because there are far more owners (10,224) than tenants (5,606) in the sample. Raw counts don't account for the different group sizes.
+
+d. 
+       Aware Unaware   Total     n
+Owner  0.597   0.403     1     10224
+Tenant 0.752   0.248     1      5606
+
+Tenants show higher hygiene awareness (75.2%) compared to owners (59.7%), a difference of 15.5 percentage points.
+
+e. Yes, there appears to be a strong association between ownership status and hygiene awareness. Tenants are significantly more likely to be hygiene-aware than owners (75.2% vs 59.7%).
