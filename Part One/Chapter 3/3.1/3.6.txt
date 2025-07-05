@@ -15,4 +15,57 @@ f. Compute the difference and the ratio of proportions. Interpret.
 g. Give an example of how the results would show that there is no evidence of association between these variables.
 --------------
 
-a. 
+a. Response variable: Belief about preventing all major terrorist attacks
+Categories: "Can eventually prevent all major attacks" vs "Terrorists will always find a way"
+
+Explanatory variable: Perceived government effectiveness in preventing terrorism
+Categories: "Very effective" vs "Somewhat/not too/not at all effective"
+
+We want to see if people's perception of government effectiveness influences their belief about whether all major terrorist attacks can eventually be prevented.
+
+b. 
+Perceived government effectiveness													Belief
+										Can eventually prevent all major attacks			Terrorists will always find a way
+Very effective											189											321
+Somewhat/not too/not at all effective						474											720
+
+c. 
+Perceived government effectiveness													Belief
+										Can eventually prevent all major attacks			Terrorists will always find a way
+Very effective											0.3706										0.6294
+Somewhat/not too/not at all effective						0.2836										0.7164
+
+Interpretation: Among those who view the government as very effective, 37.06% believe all major terrorist attacks can eventually be prevented, while 62.94% believe terrorists will always find a way. 
+Among those with lower confidence in government effectiveness, only 28.36% believe all attacks can be prevented, while 71.64% believe terrorists will always find a way.
+
+d. Yes, the percentages are conditional. Each percentage represents the proportion of people within a specific effectiveness rating group (the explanatory variable) who hold a particular 
+belief about preventing terrorism (the response variable). For example, 37.06% is the conditional proportion of people who believe all attacks can be prevented, given that they consider the government very effective. 
+These are conditional on the explanatory variable category.
+
+e. Difference of proportions: 37.06% - 28.36% = 8.7 percentage points
+Ratio of proportions: 37.06% ÷ 28.36% = 1.31
+Interpretation: People who view the government as very effective are 8.7 percentage points more likely to believe that all major terrorist attacks can eventually be prevented 
+compared to those with lower confidence in government effectiveness. 
+
+Alternatively, those who view the government as very effective are 1.31 times as likely (or 31% more likely) to believe all attacks can be prevented.
+
+g. If there were no association between perceived government effectiveness and belief about preventing terrorism, the proportions would be approximately equal across both groups. 
+For example:
+Very effective: 32% believe attacks can be prevented
+Somewhat/not too/not at all effective: 32% believe attacks can be prevented
+
+In this case, the difference would be near 0 percentage points and the ratio would be approximately 1.0, indicating that perceived government effectiveness does not influence beliefs about preventing terrorism.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
